@@ -1,0 +1,18 @@
+newmtl Quartz1Mtl
+Material Color
+Ka 0.804559 0.804559 0.84337
+Kd 0.804559 0.804559 0.84337
+Ks 0.0347065 0.0347065 0.0363807 
+
+d 0.752941
+
+Ns 0
+
+map_Ka Quartz1_diff.png
+map_Kd Quartz1_diff.png
+map_d Quartz1_diff.png
+
+map_Bump Quartz1_nmap.png
+
+map_Ns Quartz1_spec.png
+

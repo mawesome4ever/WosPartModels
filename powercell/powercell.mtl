@@ -1,0 +1,38 @@
+newmtl Powercell1Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+newmtl Powercell2Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Powercell2_diff.png
+map_Kd Powercell2_diff.png
+map_d Powercell2_diff.png
+
+newmtl Powercell6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Powercell6_diff.png
+map_Kd Powercell6_diff.png
+map_d Powercell6_diff.png
+

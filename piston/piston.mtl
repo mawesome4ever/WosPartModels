@@ -1,0 +1,66 @@
+newmtl Piston1Mtl
+Material Color
+Ka 0.851252 0.827726 0.827726
+Kd 0.851252 0.827726 0.827726
+Ks 0.337162 0.327844 0.327844 
+
+d 1
+
+Ns 0
+
+newmtl Piston2Mtl
+Material Color
+Ka 0.529523 0.529523 0.529523
+Kd 0.529523 0.529523 0.529523
+Ks 0.209733 0.209733 0.209733 
+
+d 1
+
+Ns 0
+
+map_Ka Piston2_diff.png
+map_Kd Piston2_diff.png
+map_d Piston2_diff.png
+
+newmtl Piston3Mtl
+Material Color
+Ka 0.529523 0.529523 0.529523
+Kd 0.529523 0.529523 0.529523
+Ks 0.209733 0.209733 0.209733 
+
+d 1
+
+Ns 0
+
+map_Ka Piston3_diff.png
+map_Kd Piston3_diff.png
+map_d Piston3_diff.png
+
+newmtl Piston6Mtl
+Material Color
+Ka 0.529523 0.529523 0.529523
+Kd 0.529523 0.529523 0.529523
+Ks 0.209733 0.209733 0.209733 
+
+d 1
+
+Ns 0
+
+map_Ka Piston6_diff.png
+map_Kd Piston6_diff.png
+map_d Piston6_diff.png
+
+newmtl Piston7Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka Piston7_diff.png
+map_Kd Piston7_diff.png
+map_d Piston7_diff.png
+

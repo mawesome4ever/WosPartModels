@@ -1,0 +1,66 @@
+newmtl Pulverizer1Mtl
+Material Color
+Ka 0.851252 0.827726 0.827726
+Kd 0.851252 0.827726 0.827726
+Ks 0.337162 0.327844 0.327844 
+
+d 1
+
+Ns 0
+
+newmtl Pulverizer2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Pulverizer2_diff.png
+map_Kd Pulverizer2_diff.png
+map_d Pulverizer2_diff.png
+
+newmtl Pulverizer4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Pulverizer4_diff.png
+map_Kd Pulverizer4_diff.png
+map_d Pulverizer4_diff.png
+
+newmtl Pulverizer5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Pulverizer5_diff.png
+map_Kd Pulverizer5_diff.png
+map_d Pulverizer5_diff.png
+
+newmtl Pulverizer8Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Pulverizer8_diff.png
+map_Kd Pulverizer8_diff.png
+map_d Pulverizer8_diff.png
+

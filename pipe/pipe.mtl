@@ -1,0 +1,38 @@
+newmtl Pipe1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+newmtl Pipe2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Pipe2_diff.png
+map_Kd Pipe2_diff.png
+map_d Pipe2_diff.png
+
+newmtl Pipe6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Pipe6_diff.png
+map_Kd Pipe6_diff.png
+map_d Pipe6_diff.png
+

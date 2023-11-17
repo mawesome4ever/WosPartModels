@@ -1,0 +1,52 @@
+newmtl Radar2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Radar2_diff.png
+map_Kd Radar2_diff.png
+map_d Radar2_diff.png
+
+newmtl Radar1Mtl
+Material Color
+Ka 0.505432 0.45908 0.453456
+Kd 0.505432 0.45908 0.453456
+Ks 0.200191 0.181832 0.179604 
+
+d 1
+
+Ns 0
+
+newmtl Radar3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Radar3_diff.png
+map_Kd Radar3_diff.png
+map_d Radar3_diff.png
+
+newmtl Radar6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Radar6_diff.png
+map_Kd Radar6_diff.png
+map_d Radar6_diff.png
+

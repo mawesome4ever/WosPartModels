@@ -1,0 +1,18 @@
+newmtl Polysilicon1Mtl
+Material Color
+Ka 1 0 0.529523
+Kd 1 0 0.529523
+Ks 0.666667 0 0.353016 
+
+d 1
+
+Ns 255
+
+map_Ka Polysilicon1_diff.png
+map_Kd Polysilicon1_diff.png
+map_d Polysilicon1_diff.png
+
+map_Bump Polysilicon1_nmap.png
+
+map_Ns Polysilicon1_spec.png
+

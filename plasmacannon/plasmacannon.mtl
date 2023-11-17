@@ -1,0 +1,66 @@
+newmtl Plasmacannon1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0494072 0.0451216 0.0483159 
+
+d 1
+
+Ns 0
+
+newmtl Plasmacannon2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Plasmacannon2_diff.png
+map_Kd Plasmacannon2_diff.png
+map_d Plasmacannon2_diff.png
+
+newmtl Plasmacannon3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Plasmacannon3_diff.png
+map_Kd Plasmacannon3_diff.png
+map_d Plasmacannon3_diff.png
+
+newmtl Plasmacannon4Mtl
+Material Color
+Ka 0.284452 0.284452 0.284452
+Kd 0.284452 0.284452 0.284452
+Ks 0.112665 0.112665 0.112665 
+
+d 1
+
+Ns 0
+
+map_Ka Plasmacannon4_diff.png
+map_Kd Plasmacannon4_diff.png
+map_d Plasmacannon4_diff.png
+
+newmtl Plasmacannon7Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Plasmacannon7_diff.png
+map_Kd Plasmacannon7_diff.png
+map_d Plasmacannon7_diff.png
+

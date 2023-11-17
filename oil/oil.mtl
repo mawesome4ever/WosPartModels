@@ -1,0 +1,18 @@
+newmtl Oil1Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00020281 0.00020281 0.00020281 
+
+d 0.701961
+
+Ns 0
+
+map_Ka Oil1_diff.png
+map_Kd Oil1_diff.png
+map_d Oil1_diff.png
+
+map_Bump Oil1_nmap.png
+
+map_Ns Oil1_spec.png
+
