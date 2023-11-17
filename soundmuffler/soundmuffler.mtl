@@ -1,0 +1,32 @@
+newmtl Soundmuffler1Mtl
+Material Color
+Ka 0.311181 0.0891935 0.0891935
+Kd 0.311181 0.0891935 0.0891935
+Ks 0.00854221 0.00244845 0.00244845 
+
+d 1
+
+Ns 0
+
+map_Ka Soundmuffler1_diff.png
+map_Kd Soundmuffler1_diff.png
+map_d Soundmuffler1_diff.png
+
+map_Bump Soundmuffler1_nmap.png
+
+map_Ns Soundmuffler1_spec.png
+
+newmtl Soundmuffler2Mtl
+Material Color
+Ka 0.042987 0.0118813 0.0118813
+Kd 0.042987 0.0118813 0.0118813
+Ks 0.00118004 0.000326154 0.000326154 
+
+d 1
+
+Ns 0
+
+map_Ka Soundmuffler2_diff.png
+map_Kd Soundmuffler2_diff.png
+map_d Soundmuffler2_diff.png
+

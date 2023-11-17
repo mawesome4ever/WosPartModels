@@ -1,0 +1,60 @@
+newmtl Shotgun4Mtl
+Material Color
+Ka 0.042987 0.042987 0.042987
+Kd 0.042987 0.042987 0.042987
+Ks 0.028658 0.028658 0.028658 
+
+d 1
+
+Ns 255
+
+map_Ka Shotgun4_diff.png
+map_Kd Shotgun4_diff.png
+map_d Shotgun4_diff.png
+
+newmtl Shotgun1Mtl
+Material Color
+Ka 0.0802193 0.0802193 0.0802193
+Kd 0.0802193 0.0802193 0.0802193
+Ks 0.0534795 0.0534795 0.0534795 
+
+d 1
+
+Ns 255
+
+map_Ka Shotgun1_diff.png
+map_Kd Shotgun1_diff.png
+map_d Shotgun1_diff.png
+
+map_Bump Shotgun1_nmap.png
+
+map_Ns Shotgun1_spec.png
+
+newmtl Shotgun3Mtl
+Material Color
+Ka 0.297653 0.297653 0.297653
+Kd 0.297653 0.297653 0.297653
+Ks 0.198435 0.198435 0.198435 
+
+d 1
+
+Ns 255
+
+map_Ka Shotgun3_diff.png
+map_Kd Shotgun3_diff.png
+map_d Shotgun3_diff.png
+
+newmtl Shotgun2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Shotgun2_diff.png
+map_Kd Shotgun2_diff.png
+map_d Shotgun2_diff.png
+

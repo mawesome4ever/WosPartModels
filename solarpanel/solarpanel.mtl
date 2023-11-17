@@ -1,0 +1,52 @@
+newmtl Solarpanel1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Solarpanel2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Solarpanel2_diff.png
+map_Kd Solarpanel2_diff.png
+map_d Solarpanel2_diff.png
+
+newmtl Solarpanel4Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+map_Ka Solarpanel4_diff.png
+map_Kd Solarpanel4_diff.png
+map_d Solarpanel4_diff.png
+
+newmtl Solarpanel3Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+map_Ka Solarpanel3_diff.png
+map_Kd Solarpanel3_diff.png
+map_d Solarpanel3_diff.png
+

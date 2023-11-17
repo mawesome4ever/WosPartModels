@@ -1,0 +1,52 @@
+newmtl Screen2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Screen2_diff.png
+map_Kd Screen2_diff.png
+map_d Screen2_diff.png
+
+newmtl Screen1Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00102419 0.00102419 0.00102419 
+
+d 1
+
+Ns 0
+
+newmtl Screen4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Screen4_diff.png
+map_Kd Screen4_diff.png
+map_d Screen4_diff.png
+
+newmtl Screen5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Screen5_diff.png
+map_Kd Screen5_diff.png
+map_d Screen5_diff.png
+

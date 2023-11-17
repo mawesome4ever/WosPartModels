@@ -1,0 +1,46 @@
+newmtl Sail1Mtl
+Material Color
+Ka 0.618686 0.618686 0.618686
+Kd 0.618686 0.618686 0.618686
+Ks 0.0242622 0.0242622 0.0242622 
+
+d 1
+
+Ns 0
+
+map_Ka Sail1_diff.png
+map_Kd Sail1_diff.png
+map_d Sail1_diff.png
+
+map_Bump Sail1_nmap.png
+
+map_Ns Sail1_spec.png
+
+newmtl Sail2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 0
+
+Ns 0
+
+map_Ka Sail2_diff.png
+map_Kd Sail2_diff.png
+map_d Sail2_diff.png
+
+newmtl Sail4Mtl
+Material Color
+Ka 0 1 0.144972
+Kd 0 1 0.144972
+Ks 0 0.0392157 0.00568518 
+
+d 1
+
+Ns 0
+
+map_Ka Sail4_diff.png
+map_Kd Sail4_diff.png
+map_d Sail4_diff.png
+

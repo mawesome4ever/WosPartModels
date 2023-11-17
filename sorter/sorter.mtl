@@ -1,0 +1,32 @@
+newmtl Sorter1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.627067 0.627067 0.627067 
+
+d 1
+
+Ns 255
+
+map_Ka Sorter1_diff.png
+map_Kd Sorter1_diff.png
+map_d Sorter1_diff.png
+
+map_Bump Sorter1_nmap.png
+
+map_Ns Sorter1_spec.png
+
+newmtl Sorter2Mtl
+Material Color
+Ka 0.160444 1 0
+Kd 0.160444 1 0
+Ks 0.106962 0.666667 0 
+
+d 1
+
+Ns 255
+
+map_Ka Sorter2_diff.png
+map_Kd Sorter2_diff.png
+map_d Sorter2_diff.png
+

@@ -1,0 +1,74 @@
+newmtl Servo7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 0.501961
+
+Ns 255
+
+map_Ka Servo7_diff.png
+map_Kd Servo7_diff.png
+map_d Servo7_diff.png
+
+newmtl Servo3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 0.501961
+
+Ns 255
+
+map_Ka Servo3_diff.png
+map_Kd Servo3_diff.png
+map_d Servo3_diff.png
+
+newmtl Servo2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 0.501961
+
+Ns 255
+
+map_Ka Servo2_diff.png
+map_Kd Servo2_diff.png
+map_d Servo2_diff.png
+
+newmtl Servo1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Servo1_diff.png
+map_Kd Servo1_diff.png
+map_d Servo1_diff.png
+
+map_Bump Servo1_nmap.png
+
+map_Ns Servo1_spec.png
+
+newmtl Servo4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 0.501961
+
+Ns 255
+
+map_Ka Servo4_diff.png
+map_Kd Servo4_diff.png
+map_d Servo4_diff.png
+

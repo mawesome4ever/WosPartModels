@@ -1,0 +1,32 @@
+newmtl Scanner1Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.103634 0.108711 0.14198 
+
+d 1
+
+Ns 0
+
+map_Ka Scanner1_diff.png
+map_Kd Scanner1_diff.png
+map_d Scanner1_diff.png
+
+map_Bump Scanner1_nmap.png
+
+map_Ns Scanner1_spec.png
+
+newmtl Scanner2Mtl
+Material Color
+Ka 0.0399472 0.0399472 0.0399472
+Kd 0.0399472 0.0399472 0.0399472
+Ks 0.0399472 0.0399472 0.0399472 
+
+d 1
+
+Ns 0
+
+map_Ka Scanner2_diff.png
+map_Kd Scanner2_diff.png
+map_d Scanner2_diff.png
+
