@@ -1,0 +1,18 @@
+newmtl Ballasttank1Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.0690894 0.0724741 0.0946535 
+
+d 1
+
+Ns 255
+
+map_Ka Ballasttank1_diff.png
+map_Kd Ballasttank1_diff.png
+map_d Ballasttank1_diff.png
+
+map_Bump Ballasttank1_nmap.png
+
+map_Ns Ballasttank1_spec.png
+

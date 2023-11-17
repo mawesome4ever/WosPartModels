@@ -1,0 +1,38 @@
+newmtl Balloon2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 0
+
+Ns 0
+
+map_Ka Balloon2_diff.png
+map_Kd Balloon2_diff.png
+map_d Balloon2_diff.png
+
+newmtl Balloon1Mtl
+Material Color
+Ka 0.415148 0.399293 0.348865
+Kd 0.415148 0.399293 0.348865
+Ks 0.164431 0.158151 0.138178 
+
+d 1
+
+Ns 0
+
+newmtl Balloon3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 0
+
+Ns 0
+
+map_Ka Balloon3_diff.png
+map_Kd Balloon3_diff.png
+map_d Balloon3_diff.png
+

@@ -1,0 +1,24 @@
+newmtl Aliencore1Mtl
+Material Color
+Ka 0 1 0
+Kd 0 1 0
+Ks 0 0.0901961 0 
+
+d 0.501961
+
+Ns 0
+
+newmtl Aliencore2Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka Aliencore2_diff.png
+map_Kd Aliencore2_diff.png
+map_d Aliencore2_diff.png
+

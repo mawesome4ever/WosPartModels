@@ -1,0 +1,32 @@
+newmtl Apparel2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Apparel2_diff.png
+map_Kd Apparel2_diff.png
+map_d Apparel2_diff.png
+
+newmtl Apparel1Mtl
+Material Color
+Ka 0.687031 0.56681 0.329729
+Kd 0.687031 0.56681 0.329729
+Ks 0.0188597 0.0155595 0.00905139 
+
+d 1
+
+Ns 0
+
+map_Ka Apparel1_diff.png
+map_Kd Apparel1_diff.png
+map_d Apparel1_diff.png
+
+map_Bump Apparel1_nmap.png
+
+map_Ns Apparel1_spec.png
+

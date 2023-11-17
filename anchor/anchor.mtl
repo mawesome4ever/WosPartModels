@@ -1,0 +1,24 @@
+newmtl Anchor1Mtl
+Material Color
+Ka 0.91575 0.618686 0.0253713
+Kd 0.91575 0.618686 0.0253713
+Ks 0.0574588 0.0388195 0.00159192 
+
+d 1
+
+Ns 0
+
+newmtl Anchor2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Anchor2_diff.png
+map_Kd Anchor2_diff.png
+map_d Anchor2_diff.png
+

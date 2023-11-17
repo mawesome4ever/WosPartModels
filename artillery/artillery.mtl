@@ -1,0 +1,52 @@
+newmtl Artillery1Mtl
+Material Color
+Ka 0.0461488 0.0461488 0.0461488
+Kd 0.0461488 0.0461488 0.0461488
+Ks 0.0182786 0.0182786 0.0182786 
+
+d 1
+
+Ns 0
+
+newmtl Artillery2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Artillery2_diff.png
+map_Kd Artillery2_diff.png
+map_d Artillery2_diff.png
+
+newmtl Artillery3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Artillery3_diff.png
+map_Kd Artillery3_diff.png
+map_d Artillery3_diff.png
+
+newmtl Artillery5Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Artillery5_diff.png
+map_Kd Artillery5_diff.png
+map_d Artillery5_diff.png
+

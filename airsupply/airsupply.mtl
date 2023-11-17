@@ -1,0 +1,38 @@
+newmtl Airsupply1Mtl
+Material Color
+Ka 0.659224 0.523443 0.311181
+Kd 0.659224 0.523443 0.311181
+Ks 0.261104 0.207325 0.123252 
+
+d 1
+
+Ns 0
+
+newmtl Airsupply2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Airsupply2_diff.png
+map_Kd Airsupply2_diff.png
+map_d Airsupply2_diff.png
+
+newmtl Airsupply4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Airsupply4_diff.png
+map_Kd Airsupply4_diff.png
+map_d Airsupply4_diff.png
+

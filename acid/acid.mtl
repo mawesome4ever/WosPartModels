@@ -1,0 +1,18 @@
+newmtl Acid1Mtl
+Material Color
+Ka 0.442323 1 0.0253713
+Kd 0.442323 1 0.0253713
+Ks 0.0121422 0.027451 0.000696466 
+
+d 1
+
+Ns 0
+
+map_Ka Acid1_diff.png
+map_Kd Acid1_diff.png
+map_d Acid1_diff.png
+
+map_Bump Acid1_nmap.png
+
+map_Ns Acid1_spec.png
+

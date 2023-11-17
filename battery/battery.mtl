@@ -1,0 +1,38 @@
+newmtl Battery1Mtl
+Material Color
+Ka 0.0356144 0.0328759 0.0342302
+Kd 0.0356144 0.0328759 0.0342302
+Ks 0.0141061 0.0130214 0.0135578 
+
+d 1
+
+Ns 0
+
+newmtl Battery2Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Battery2_diff.png
+map_Kd Battery2_diff.png
+map_d Battery2_diff.png
+
+newmtl Battery6Mtl
+Material Color
+Ka 0.523443 0.523443 0.523443
+Kd 0.523443 0.523443 0.523443
+Ks 0.207325 0.207325 0.207325 
+
+d 1
+
+Ns 0
+
+map_Ka Battery6_diff.png
+map_Kd Battery6_diff.png
+map_d Battery6_diff.png
+

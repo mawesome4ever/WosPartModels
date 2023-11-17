@@ -1,0 +1,38 @@
+newmtl Arcontroller1Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 0
+
+newmtl Arcontroller3Mtl
+Material Color
+Ka 0.442323 0.505432 1
+Kd 0.442323 0.505432 1
+Ks 0.0398958 0.045588 0.0901961 
+
+d 1
+
+Ns 0
+
+map_Ka Arcontroller3_diff.png
+map_Kd Arcontroller3_diff.png
+map_d Arcontroller3_diff.png
+
+newmtl Arcontroller2Mtl
+Material Color
+Ka 0.442323 0.505432 1
+Kd 0.442323 0.505432 1
+Ks 0.0398958 0.045588 0.0901961 
+
+d 1
+
+Ns 0
+
+map_Ka Arcontroller2_diff.png
+map_Kd Arcontroller2_diff.png
+map_d Arcontroller2_diff.png
+

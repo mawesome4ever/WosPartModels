@@ -1,0 +1,24 @@
+newmtl Antenna1Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.222002 0.0067286 0.00307001 
+
+d 1
+
+Ns 0
+
+newmtl Antenna2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Antenna2_diff.png
+map_Kd Antenna2_diff.png
+map_d Antenna2_diff.png
+

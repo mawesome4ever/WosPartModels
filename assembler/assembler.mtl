@@ -1,0 +1,24 @@
+newmtl Assembler1Mtl
+Material Color
+Ka 0.101145 0.0697271 0.0511221
+Kd 0.101145 0.0697271 0.0511221
+Ks 0.0400614 0.0276174 0.0202483 
+
+d 1
+
+Ns 0
+
+newmtl Assembler2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Assembler2_diff.png
+map_Kd Assembler2_diff.png
+map_d Assembler2_diff.png
+
