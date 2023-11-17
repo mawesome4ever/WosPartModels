@@ -1,0 +1,18 @@
+newmtl Insulation1Mtl
+Material Color
+Ka 0.687031 0.56681 0.329729
+Kd 0.687031 0.56681 0.329729
+Ks 0.0188597 0.0155595 0.00905139 
+
+d 1
+
+Ns 0
+
+map_Ka Insulation1_diff.png
+map_Kd Insulation1_diff.png
+map_d Insulation1_diff.png
+
+map_Bump Insulation1_nmap.png
+
+map_Ns Insulation1_spec.png
+

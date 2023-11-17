@@ -1,0 +1,60 @@
+newmtl Ionrocket3Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 255
+
+map_Ka Ionrocket3_diff.png
+map_Kd Ionrocket3_diff.png
+map_d Ionrocket3_diff.png
+
+newmtl Ionrocket1Mtl
+Material Color
+Ka 0.74453 0.74453 0.737205
+Kd 0.74453 0.74453 0.737205
+Ks 0.496353 0.496353 0.49147 
+
+d 1
+
+Ns 255
+
+map_Ka Ionrocket1_diff.png
+map_Kd Ionrocket1_diff.png
+map_d Ionrocket1_diff.png
+
+map_Bump Ionrocket1_nmap.png
+
+map_Ns Ionrocket1_spec.png
+
+newmtl Ionrocket2Mtl
+Material Color
+Ka 0.74453 0.74453 0.737205
+Kd 0.74453 0.74453 0.737205
+Ks 0.496353 0.496353 0.49147 
+
+d 1
+
+Ns 255
+
+map_Ka Ionrocket2_diff.png
+map_Kd Ionrocket2_diff.png
+map_d Ionrocket2_diff.png
+
+newmtl Ionrocket4Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 255
+
+map_Ka Ionrocket4_diff.png
+map_Kd Ionrocket4_diff.png
+map_d Ionrocket4_diff.png
+

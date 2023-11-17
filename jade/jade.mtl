@@ -1,0 +1,18 @@
+newmtl Jade1Mtl
+Material Color
+Ka 0.0891935 0.288816 0.00837312
+Kd 0.0891935 0.288816 0.00837312
+Ks 0.0104934 0.0339784 0.000985073 
+
+d 1
+
+Ns 0
+
+map_Ka Jade1_diff.png
+map_Kd Jade1_diff.png
+map_d Jade1_diff.png
+
+map_Bump Jade1_nmap.png
+
+map_Ns Jade1_spec.png
+

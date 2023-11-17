@@ -1,0 +1,10 @@
+newmtl Hydrogen1Mtl
+Material Color
+Ka 1 0.133209 0.612066
+Kd 1 0.133209 0.612066
+Ks 0.0901961 0.0120149 0.0552059 
+
+d 1
+
+Ns 0
+

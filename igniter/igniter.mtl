@@ -1,0 +1,56 @@
+newmtl Igniter1Mtl
+Material Color
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.196078 0 0 
+
+d 1
+
+Ns 255
+
+map_Bump Igniter1_nmap.png
+
+map_Ns Igniter1_spec.png
+
+newmtl Igniter2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.196078 0.196078 0.196078 
+
+d 1
+
+Ns 255
+
+map_Ka Igniter2_diff.png
+map_Kd Igniter2_diff.png
+map_d Igniter2_diff.png
+
+newmtl Igniter6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.196078 0.196078 0.196078 
+
+d 1
+
+Ns 255
+
+map_Ka Igniter6_diff.png
+map_Kd Igniter6_diff.png
+map_d Igniter6_diff.png
+
+newmtl Igniter7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.196078 0.196078 0.196078 
+
+d 1
+
+Ns 255
+
+map_Ka Igniter7_diff.png
+map_Kd Igniter7_diff.png
+map_d Igniter7_diff.png
+

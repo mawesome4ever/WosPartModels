@@ -1,0 +1,66 @@
+newmtl Hydroponic1Mtl
+Material Color
+Ka 0.851252 0.827726 0.827726
+Kd 0.851252 0.827726 0.827726
+Ks 0.337162 0.327844 0.327844 
+
+d 1
+
+Ns 0
+
+newmtl Hydroponic2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Hydroponic2_diff.png
+map_Kd Hydroponic2_diff.png
+map_d Hydroponic2_diff.png
+
+newmtl Hydroponic3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Hydroponic3_diff.png
+map_Kd Hydroponic3_diff.png
+map_d Hydroponic3_diff.png
+
+newmtl Hydroponic5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Hydroponic5_diff.png
+map_Kd Hydroponic5_diff.png
+map_d Hydroponic5_diff.png
+
+newmtl Hydroponic7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Hydroponic7_diff.png
+map_Kd Hydroponic7_diff.png
+map_d Hydroponic7_diff.png
+

@@ -1,0 +1,46 @@
+newmtl Hull1Mtl
+Material Color
+Ka 0.74453 0.74453 0.737205
+Kd 0.74453 0.74453 0.737205
+Ks 0.032117 0.032117 0.031801 
+
+d 1
+
+Ns 0
+
+map_Ka Hull1_diff.png
+map_Kd Hull1_diff.png
+map_d Hull1_diff.png
+
+map_Bump Hull1_nmap.png
+
+map_Ns Hull1_spec.png
+
+newmtl Hull2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0431373 0.0431373 0.0431373 
+
+d 0
+
+Ns 0
+
+map_Ka Hull2_diff.png
+map_Kd Hull2_diff.png
+map_d Hull2_diff.png
+
+newmtl Hull5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0431373 0.0431373 0.0431373 
+
+d 1
+
+Ns 0
+
+map_Ka Hull5_diff.png
+map_Kd Hull5_diff.png
+map_d Hull5_diff.png
+

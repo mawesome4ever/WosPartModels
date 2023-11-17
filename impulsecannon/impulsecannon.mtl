@@ -1,0 +1,38 @@
+newmtl Impulsecannon1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+newmtl Impulsecannon2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Impulsecannon2_diff.png
+map_Kd Impulsecannon2_diff.png
+map_d Impulsecannon2_diff.png
+
+newmtl Impulsecannon6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Impulsecannon6_diff.png
+map_Kd Impulsecannon6_diff.png
+map_d Impulsecannon6_diff.png
+

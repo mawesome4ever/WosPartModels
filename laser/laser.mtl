@@ -1,0 +1,52 @@
+newmtl Laser1Mtl
+Material Color
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.396078 0 0 
+
+d 1
+
+Ns 0
+
+newmtl Laser2Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Laser2_diff.png
+map_Kd Laser2_diff.png
+map_d Laser2_diff.png
+
+newmtl Laser6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Laser6_diff.png
+map_Kd Laser6_diff.png
+map_d Laser6_diff.png
+
+newmtl Laser7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Laser7_diff.png
+map_Kd Laser7_diff.png
+map_d Laser7_diff.png
+
