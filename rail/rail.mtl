@@ -1,0 +1,66 @@
+newmtl Rail6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Rail6_diff.png
+map_Kd Rail6_diff.png
+map_d Rail6_diff.png
+
+newmtl Rail5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Rail5_diff.png
+map_Kd Rail5_diff.png
+map_d Rail5_diff.png
+
+newmtl Rail1Mtl
+Material Color
+Ka 0.851252 0.827726 0.827726
+Kd 0.851252 0.827726 0.827726
+Ks 0.337162 0.327844 0.327844 
+
+d 1
+
+Ns 0
+
+newmtl Rail2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Rail2_diff.png
+map_Kd Rail2_diff.png
+map_d Rail2_diff.png
+
+newmtl Rail3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Rail3_diff.png
+map_Kd Rail3_diff.png
+map_d Rail3_diff.png
+

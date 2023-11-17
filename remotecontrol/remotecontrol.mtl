@@ -1,0 +1,32 @@
+newmtl Remotecontrol1Mtl
+Material Color
+Ka 0.598942 0.605484 0.645555
+Kd 0.598942 0.605484 0.645555
+Ks 0.399295 0.403656 0.43037 
+
+d 1
+
+Ns 255
+
+map_Ka Remotecontrol1_diff.png
+map_Kd Remotecontrol1_diff.png
+map_d Remotecontrol1_diff.png
+
+map_Bump Remotecontrol1_nmap.png
+
+map_Ns Remotecontrol1_spec.png
+
+newmtl Remotecontrol2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Remotecontrol2_diff.png
+map_Kd Remotecontrol2_diff.png
+map_d Remotecontrol2_diff.png
+

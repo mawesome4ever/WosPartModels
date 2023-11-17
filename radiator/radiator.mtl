@@ -1,0 +1,130 @@
+newmtl Radiator1Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.249077 0.0451497 0.0451497 
+
+d 1
+
+Ns 255
+
+map_Ka Radiator1_diff.png
+map_Kd Radiator1_diff.png
+map_d Radiator1_diff.png
+
+map_Bump Radiator1_nmap.png
+
+map_Ns Radiator1_spec.png
+
+newmtl Radiator9Mtl
+Material Color
+Ka 0.464741 0.464741 0.464741
+Kd 0.464741 0.464741 0.464741
+Ks 0.309827 0.309827 0.309827 
+
+d 1
+
+Ns 255
+
+map_Ka Radiator9_diff.png
+map_Kd Radiator9_diff.png
+map_d Radiator9_diff.png
+
+newmtl Radiator5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Radiator5_diff.png
+map_Kd Radiator5_diff.png
+map_d Radiator5_diff.png
+
+newmtl Radiator2Mtl
+Material Color
+Ka 1 0.22331 0.0033027
+Kd 1 0.22331 0.0033027
+Ks 0.666667 0.148874 0.0022018 
+
+d 1
+
+Ns 255
+
+map_Ka Radiator2_diff.png
+map_Kd Radiator2_diff.png
+map_d Radiator2_diff.png
+
+newmtl Radiator3Mtl
+Material Color
+Ka 1 0.22331 0.0033027
+Kd 1 0.22331 0.0033027
+Ks 0.666667 0.148874 0.0022018 
+
+d 1
+
+Ns 255
+
+map_Ka Radiator3_diff.png
+map_Kd Radiator3_diff.png
+map_d Radiator3_diff.png
+
+newmtl Radiator4Mtl
+Material Color
+Ka 1 0.22331 0.0033027
+Kd 1 0.22331 0.0033027
+Ks 0.666667 0.148874 0.0022018 
+
+d 1
+
+Ns 255
+
+map_Ka Radiator4_diff.png
+map_Kd Radiator4_diff.png
+map_d Radiator4_diff.png
+
+newmtl Radiator7Mtl
+Material Color
+Ka 0.136099 0.136099 0.136099
+Kd 0.136099 0.136099 0.136099
+Ks 0.0907324 0.0907324 0.0907324 
+
+d 1
+
+Ns 255
+
+map_Ka Radiator7_diff.png
+map_Kd Radiator7_diff.png
+map_d Radiator7_diff.png
+
+newmtl Radiator6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Radiator6_diff.png
+map_Kd Radiator6_diff.png
+map_d Radiator6_diff.png
+
+newmtl Radiator12Mtl
+Material Color
+Ka 0.0545923 0.0545923 0.0545923
+Kd 0.0545923 0.0545923 0.0545923
+Ks 0.0363949 0.0363949 0.0363949 
+
+d 1
+
+Ns 255
+
+map_Ka Radiator12_diff.png
+map_Kd Radiator12_diff.png
+map_d Radiator12_diff.png
+

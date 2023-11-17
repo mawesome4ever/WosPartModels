@@ -1,0 +1,24 @@
+newmtl Router1Mtl
+Material Color
+Ka 0.0545923 0.0494335 0.0528416
+Kd 0.0545923 0.0494335 0.0528416
+Ks 0.0216228 0.0195795 0.0209294 
+
+d 1
+
+Ns 0
+
+newmtl Router2Mtl
+Material Color
+Ka 0.0511221 0.0511221 0.0511221
+Kd 0.0511221 0.0511221 0.0511221
+Ks 0.0202483 0.0202483 0.0202483 
+
+d 1
+
+Ns 0
+
+map_Ka Router2_diff.png
+map_Kd Router2_diff.png
+map_d Router2_diff.png
+

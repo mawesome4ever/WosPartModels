@@ -1,0 +1,52 @@
+newmtl Railgun3Mtl
+Material Color
+Ka 0.0846415 0.0846415 0.0869013
+Kd 0.0846415 0.0846415 0.0869013
+Ks 0.0335247 0.0335247 0.0344197 
+
+d 0.901961
+
+Ns 0
+
+map_Ka Railgun3_diff.png
+map_Kd Railgun3_diff.png
+map_d Railgun3_diff.png
+
+newmtl Railgun1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Railgun7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Railgun7_diff.png
+map_Kd Railgun7_diff.png
+map_d Railgun7_diff.png
+
+newmtl Railgun2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Railgun2_diff.png
+map_Kd Railgun2_diff.png
+map_d Railgun2_diff.png
+

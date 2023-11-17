@@ -1,0 +1,74 @@
+newmtl Refinery1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0146754 0.0134025 0.0143513 
+
+d 1
+
+Ns 0
+
+map_Ka Refinery1_diff.png
+map_Kd Refinery1_diff.png
+map_d Refinery1_diff.png
+
+map_Bump Refinery1_nmap.png
+
+map_Ns Refinery1_spec.png
+
+newmtl Refinery2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.117647 0.117647 0.117647 
+
+d 1
+
+Ns 0
+
+map_Ka Refinery2_diff.png
+map_Kd Refinery2_diff.png
+map_d Refinery2_diff.png
+
+newmtl Refinery7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.117647 0.117647 0.117647 
+
+d 1
+
+Ns 0
+
+map_Ka Refinery7_diff.png
+map_Kd Refinery7_diff.png
+map_d Refinery7_diff.png
+
+newmtl Refinery3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.117647 0.117647 0.117647 
+
+d 1
+
+Ns 0
+
+map_Ka Refinery3_diff.png
+map_Kd Refinery3_diff.png
+map_d Refinery3_diff.png
+
+newmtl Refinery4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.117647 0.117647 0.117647 
+
+d 1
+
+Ns 0
+
+map_Ka Refinery4_diff.png
+map_Kd Refinery4_diff.png
+map_d Refinery4_diff.png
+

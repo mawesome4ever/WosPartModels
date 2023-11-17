@@ -1,0 +1,18 @@
+newmtl Rubber1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000308649 0.000815854 0.00136104 
+
+d 1
+
+Ns 0
+
+map_Ka Rubber1_diff.png
+map_Kd Rubber1_diff.png
+map_d Rubber1_diff.png
+
+map_Bump Rubber1_nmap.png
+
+map_Ns Rubber1_spec.png
+

@@ -1,0 +1,42 @@
+newmtl Relay1Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.109902 0.00333099 0.00151981 
+
+d 1
+
+Ns 255
+
+map_Bump Relay1_nmap.png
+
+map_Ns Relay1_spec.png
+
+newmtl Relay3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.196078 0.196078 0.196078 
+
+d 1
+
+Ns 255
+
+map_Ka Relay3_diff.png
+map_Kd Relay3_diff.png
+map_d Relay3_diff.png
+
+newmtl Relay2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.196078 0.196078 0.196078 
+
+d 1
+
+Ns 255
+
+map_Ka Relay2_diff.png
+map_Kd Relay2_diff.png
+map_d Relay2_diff.png
+

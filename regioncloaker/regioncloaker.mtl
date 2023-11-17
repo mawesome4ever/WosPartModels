@@ -1,0 +1,66 @@
+newmtl Regioncloaker1Mtl
+Material Color
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.396078 0 0 
+
+d 1
+
+Ns 0
+
+newmtl Regioncloaker4Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Regioncloaker4_diff.png
+map_Kd Regioncloaker4_diff.png
+map_d Regioncloaker4_diff.png
+
+newmtl Regioncloaker2Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Regioncloaker2_diff.png
+map_Kd Regioncloaker2_diff.png
+map_d Regioncloaker2_diff.png
+
+newmtl Regioncloaker6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Regioncloaker6_diff.png
+map_Kd Regioncloaker6_diff.png
+map_d Regioncloaker6_diff.png
+
+newmtl Regioncloaker7Mtl
+Material Color
+Ka 1 0 0.000107187
+Kd 1 0 0.000107187
+Ks 0.396078 0 4.24546e-05 
+
+d 1
+
+Ns 0
+
+map_Ka Regioncloaker7_diff.png
+map_Kd Regioncloaker7_diff.png
+map_d Regioncloaker7_diff.png
+
