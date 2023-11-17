@@ -1,0 +1,66 @@
+newmtl Stasisfield1Mtl
+Material Color
+Ka 0.612066 1 0.612066
+Kd 0.612066 1 0.612066
+Ks 0.242426 0.396078 0.242426 
+
+d 1
+
+Ns 0
+
+newmtl Stasisfield7Mtl
+Material Color
+Ka 0.612066 1 0.612066
+Kd 0.612066 1 0.612066
+Ks 0.242426 0.396078 0.242426 
+
+d 1
+
+Ns 0
+
+map_Ka Stasisfield7_diff.png
+map_Kd Stasisfield7_diff.png
+map_d Stasisfield7_diff.png
+
+newmtl Stasisfield4Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Stasisfield4_diff.png
+map_Kd Stasisfield4_diff.png
+map_d Stasisfield4_diff.png
+
+newmtl Stasisfield2Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Stasisfield2_diff.png
+map_Kd Stasisfield2_diff.png
+map_d Stasisfield2_diff.png
+
+newmtl Stasisfield6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Stasisfield6_diff.png
+map_Kd Stasisfield6_diff.png
+map_d Stasisfield6_diff.png
+

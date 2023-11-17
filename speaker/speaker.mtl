@@ -1,0 +1,32 @@
+newmtl Speaker2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Speaker2_diff.png
+map_Kd Speaker2_diff.png
+map_d Speaker2_diff.png
+
+newmtl Speaker1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0831606 0.0759473 0.0813238 
+
+d 1
+
+Ns 255
+
+map_Ka Speaker1_diff.png
+map_Kd Speaker1_diff.png
+map_d Speaker1_diff.png
+
+map_Bump Speaker1_nmap.png
+
+map_Ns Speaker1_spec.png
+

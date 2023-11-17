@@ -1,0 +1,18 @@
+newmtl Stick1Mtl
+Material Color
+Ka 0.14198 0.0477758 0.0169881
+Kd 0.14198 0.0477758 0.0169881
+Ks 0.007795 0.00262298 0.000932677 
+
+d 1
+
+Ns 0
+
+map_Ka Stick1_diff.png
+map_Kd Stick1_diff.png
+map_d Stick1_diff.png
+
+map_Bump Stick1_nmap.png
+
+map_Ns Stick1_spec.png
+

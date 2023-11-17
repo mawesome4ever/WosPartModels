@@ -1,0 +1,52 @@
+newmtl Teleporter1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+newmtl Teleporter7Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+map_Ka Teleporter7_diff.png
+map_Kd Teleporter7_diff.png
+map_d Teleporter7_diff.png
+
+newmtl Teleporter2Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+map_Ka Teleporter2_diff.png
+map_Kd Teleporter2_diff.png
+map_d Teleporter2_diff.png
+
+newmtl Teleporter3Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+map_Ka Teleporter3_diff.png
+map_Kd Teleporter3_diff.png
+map_d Teleporter3_diff.png
+

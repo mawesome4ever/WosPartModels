@@ -1,0 +1,24 @@
+newmtl Studaligner1Mtl
+Material Color
+Ka 0.579547 0.666117 0.781751
+Kd 0.579547 0.666117 0.781751
+Ks 0.229546 0.263835 0.309635 
+
+d 1
+
+Ns 0
+
+newmtl Studaligner2Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka Studaligner2_diff.png
+map_Kd Studaligner2_diff.png
+map_d Studaligner2_diff.png
+

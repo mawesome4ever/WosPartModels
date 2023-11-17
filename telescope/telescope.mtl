@@ -1,0 +1,108 @@
+newmtl Telescope7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Telescope7_diff.png
+map_Kd Telescope7_diff.png
+map_d Telescope7_diff.png
+
+newmtl Telescope2Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+map_Ka Telescope2_diff.png
+map_Kd Telescope2_diff.png
+map_d Telescope2_diff.png
+
+newmtl Telescope1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Telescope8Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Telescope8_diff.png
+map_Kd Telescope8_diff.png
+map_d Telescope8_diff.png
+
+newmtl Telescope6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Telescope6_diff.png
+map_Kd Telescope6_diff.png
+map_d Telescope6_diff.png
+
+newmtl Telescope9Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Telescope9_diff.png
+map_Kd Telescope9_diff.png
+map_d Telescope9_diff.png
+
+newmtl Telescope10Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Telescope10_diff.png
+map_Kd Telescope10_diff.png
+map_d Telescope10_diff.png
+
+newmtl Telescope11Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Telescope11_diff.png
+map_Kd Telescope11_diff.png
+map_d Telescope11_diff.png
+

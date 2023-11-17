@@ -1,0 +1,42 @@
+newmtl Handle1Mtl
+Material Color
+Ka 0.0289912 0.00604059 0.00604059
+Kd 0.0289912 0.00604059 0.00604059
+Ks 0.00181905 0.000379018 0.000379018 
+
+d 1
+
+Ns 0
+
+map_Ka Handle1_diff.png
+map_Kd Handle1_diff.png
+map_d Handle1_diff.png
+
+newmtl Forcefield1Mtl
+Material Color
+Ka 0.197516 0.0199178 0.0199178
+Kd 0.197516 0.0199178 0.0199178
+Ks 0.0178152 0.00179651 0.00179651 
+
+d 1
+
+Ns 0
+
+newmtl Texture1Mtl
+Material Color
+Ka 1 0.101145 0.101145
+Kd 1 0.101145 0.101145
+Ks 0.027451 0.00277653 0.00277653 
+
+d 0.501961
+
+Ns 0
+
+map_Ka Texture1_diff.png
+map_Kd Texture1_diff.png
+map_d Texture1_diff.png
+
+map_Bump Texture1_nmap.png
+
+map_Ns Texture1_spec.png
+

@@ -1,0 +1,46 @@
+newmtl Spotlight1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Spotlight1_diff.png
+map_Kd Spotlight1_diff.png
+map_d Spotlight1_diff.png
+
+map_Bump Spotlight1_nmap.png
+
+map_Ns Spotlight1_spec.png
+
+newmtl Spotlight2Mtl
+Material Color
+Ka 0.0780566 0.0780566 0.0780566
+Kd 0.0780566 0.0780566 0.0780566
+Ks 0.0520377 0.0520377 0.0520377 
+
+d 1
+
+Ns 255
+
+map_Ka Spotlight2_diff.png
+map_Kd Spotlight2_diff.png
+map_d Spotlight2_diff.png
+
+newmtl Spotlight6Mtl
+Material Color
+Ka 0.38891 0.38891 0.38891
+Kd 0.38891 0.38891 0.38891
+Ks 0.259274 0.259274 0.259274 
+
+d 1
+
+Ns 255
+
+map_Ka Spotlight6_diff.png
+map_Kd Spotlight6_diff.png
+map_d Spotlight6_diff.png
+

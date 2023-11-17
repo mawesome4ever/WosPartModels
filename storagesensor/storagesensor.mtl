@@ -1,0 +1,18 @@
+newmtl Storagesensor1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0831606 0.0759473 0.0813238 
+
+d 1
+
+Ns 255
+
+map_Ka Storagesensor1_diff.png
+map_Kd Storagesensor1_diff.png
+map_d Storagesensor1_diff.png
+
+map_Bump Storagesensor1_nmap.png
+
+map_Ns Storagesensor1_spec.png
+

@@ -1,0 +1,38 @@
+newmtl Starmap1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00283396 0.00749103 0.0124968 
+
+d 1
+
+Ns 0
+
+newmtl Starmap2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Starmap2_diff.png
+map_Kd Starmap2_diff.png
+map_d Starmap2_diff.png
+
+newmtl Starmap6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Starmap6_diff.png
+map_Kd Starmap6_diff.png
+map_d Starmap6_diff.png
+

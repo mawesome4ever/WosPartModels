@@ -1,0 +1,66 @@
+newmtl Steamengine1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Steamengine3Mtl
+Material Color
+Ka 0.0677246 0.0717615 0.160444
+Kd 0.0677246 0.0717615 0.160444
+Ks 0.0268243 0.0284232 0.0635482 
+
+d 0.501961
+
+Ns 0
+
+map_Ka Steamengine3_diff.png
+map_Kd Steamengine3_diff.png
+map_d Steamengine3_diff.png
+
+newmtl Steamengine2Mtl
+Material Color
+Ka 0.0677246 0.0717615 0.160444
+Kd 0.0677246 0.0717615 0.160444
+Ks 0.0268243 0.0284232 0.0635482 
+
+d 0.501961
+
+Ns 0
+
+map_Ka Steamengine2_diff.png
+map_Kd Steamengine2_diff.png
+map_d Steamengine2_diff.png
+
+newmtl Steamengine4Mtl
+Material Color
+Ka 0.0677246 0.0717615 0.160444
+Kd 0.0677246 0.0717615 0.160444
+Ks 0.0268243 0.0284232 0.0635482 
+
+d 0.501961
+
+Ns 0
+
+map_Ka Steamengine4_diff.png
+map_Kd Steamengine4_diff.png
+map_d Steamengine4_diff.png
+
+newmtl Steamengine7Mtl
+Material Color
+Ka 0.0677246 0.0717615 0.160444
+Kd 0.0677246 0.0717615 0.160444
+Ks 0.0268243 0.0284232 0.0635482 
+
+d 0.501961
+
+Ns 0
+
+map_Ka Steamengine7_diff.png
+map_Kd Steamengine7_diff.png
+map_d Steamengine7_diff.png
+
