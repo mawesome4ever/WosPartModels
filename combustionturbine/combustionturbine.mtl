@@ -1,0 +1,66 @@
+newmtl Combustionturbine1Mtl
+Material Color
+Ka 0.618686 0.618686 0.618686
+Kd 0.618686 0.618686 0.618686
+Ks 0.245048 0.245048 0.245048 
+
+d 1
+
+Ns 0
+
+newmtl Combustionturbine2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Combustionturbine2_diff.png
+map_Kd Combustionturbine2_diff.png
+map_d Combustionturbine2_diff.png
+
+newmtl Combustionturbine3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Combustionturbine3_diff.png
+map_Kd Combustionturbine3_diff.png
+map_d Combustionturbine3_diff.png
+
+newmtl Combustionturbine4Mtl
+Material Color
+Ka 0.573159 0.573159 0.573159
+Kd 0.573159 0.573159 0.573159
+Ks 0.227016 0.227016 0.227016 
+
+d 1
+
+Ns 0
+
+map_Ka Combustionturbine4_diff.png
+map_Kd Combustionturbine4_diff.png
+map_d Combustionturbine4_diff.png
+
+newmtl Combustionturbine6Mtl
+Material Color
+Ka 0.0399472 0.0399472 0.0399472
+Kd 0.0399472 0.0399472 0.0399472
+Ks 0.0158222 0.0158222 0.0158222 
+
+d 1
+
+Ns 0
+
+map_Ka Combustionturbine6_diff.png
+map_Kd Combustionturbine6_diff.png
+map_d Combustionturbine6_diff.png
+

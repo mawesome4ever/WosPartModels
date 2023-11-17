@@ -1,0 +1,46 @@
+newmtl Conveyorbelt1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00477002 0.0126087 0.0210343 
+
+d 1
+
+Ns 255
+
+map_Ka Conveyorbelt1_diff.png
+map_Kd Conveyorbelt1_diff.png
+map_d Conveyorbelt1_diff.png
+
+map_Bump Conveyorbelt1_nmap.png
+
+map_Ns Conveyorbelt1_spec.png
+
+newmtl Conveyorbelt2Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00477002 0.0126087 0.0210343 
+
+d 1
+
+Ns 255
+
+map_Ka Conveyorbelt2_diff.png
+map_Kd Conveyorbelt2_diff.png
+map_d Conveyorbelt2_diff.png
+
+newmtl Conveyorbelt3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Conveyorbelt3_diff.png
+map_Kd Conveyorbelt3_diff.png
+map_d Conveyorbelt3_diff.png
+

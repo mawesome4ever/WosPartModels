@@ -1,0 +1,18 @@
+newmtl Cooler1Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 255
+
+map_Ka Cooler1_diff.png
+map_Kd Cooler1_diff.png
+map_d Cooler1_diff.png
+
+map_Bump Cooler1_nmap.png
+
+map_Ns Cooler1_spec.png
+

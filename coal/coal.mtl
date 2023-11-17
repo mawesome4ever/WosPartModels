@@ -1,0 +1,32 @@
+newmtl Coal1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000308649 0.000815854 0.00136104 
+
+d 1
+
+Ns 0
+
+map_Ka Coal1_diff.png
+map_Kd Coal1_diff.png
+map_d Coal1_diff.png
+
+map_Bump Coal1_nmap.png
+
+map_Ns Coal1_spec.png
+
+newmtl Coal2Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000308649 0.000815854 0.00136104 
+
+d 1
+
+Ns 0
+
+map_Ka Coal2_diff.png
+map_Kd Coal2_diff.png
+map_d Coal2_diff.png
+

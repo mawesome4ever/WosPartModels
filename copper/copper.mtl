@@ -1,0 +1,18 @@
+newmtl Copper1Mtl
+Material Color
+Ka 0.708298 0.238828 0.0494335
+Kd 0.708298 0.238828 0.0494335
+Ks 0.472199 0.159219 0.0329556 
+
+d 1
+
+Ns 255
+
+map_Ka Copper1_diff.png
+map_Kd Copper1_diff.png
+map_d Copper1_diff.png
+
+map_Bump Copper1_nmap.png
+
+map_Ns Copper1_spec.png
+

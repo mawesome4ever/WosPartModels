@@ -1,0 +1,24 @@
+newmtl Controller1Mtl
+Material Color
+Ka 0.242796 0.238828 0.2468
+Kd 0.242796 0.238828 0.2468
+Ks 0.0961664 0.0945946 0.0977523 
+
+d 1
+
+Ns 0
+
+newmtl Controller2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Controller2_diff.png
+map_Kd Controller2_diff.png
+map_d Controller2_diff.png
+

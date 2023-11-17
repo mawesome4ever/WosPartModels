@@ -1,0 +1,18 @@
+newmtl Cloth1Mtl
+Material Color
+Ka 0.659224 0.523443 0.311181
+Kd 0.659224 0.523443 0.311181
+Ks 0.0180963 0.014369 0.00854221 
+
+d 1
+
+Ns 0
+
+map_Ka Cloth1_diff.png
+map_Kd Cloth1_diff.png
+map_d Cloth1_diff.png
+
+map_Bump Cloth1_nmap.png
+
+map_Ns Cloth1_spec.png
+

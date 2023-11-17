@@ -1,0 +1,38 @@
+newmtl Constructor8Mtl
+Material Color
+Ka 0.212044 0.139022 0.0461488
+Kd 0.212044 0.139022 0.0461488
+Ks 0.0839862 0.0550638 0.0182786 
+
+d 1
+
+Ns 0
+
+map_Ka Constructor8_diff.png
+map_Kd Constructor8_diff.png
+map_d Constructor8_diff.png
+
+newmtl Constructor1Mtl
+Material Color
+Ka 0.212044 0.139022 0.0461488
+Kd 0.212044 0.139022 0.0461488
+Ks 0.0839862 0.0550638 0.0182786 
+
+d 1
+
+Ns 0
+
+newmtl Constructor2Mtl
+Material Color
+Ka 0.212044 0.139022 0.0461488
+Kd 0.212044 0.139022 0.0461488
+Ks 0.0839862 0.0550638 0.0182786 
+
+d 1
+
+Ns 0
+
+map_Ka Constructor2_diff.png
+map_Kd Constructor2_diff.png
+map_d Constructor2_diff.png
+

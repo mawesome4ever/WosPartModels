@@ -1,0 +1,18 @@
+newmtl Cone1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.0405749 0.0405749 0.0405749 
+
+d 1
+
+Ns 0
+
+map_Ka Cone1_diff.png
+map_Kd Cone1_diff.png
+map_d Cone1_diff.png
+
+map_Bump Cone1_nmap.png
+
+map_Ns Cone1_spec.png
+
