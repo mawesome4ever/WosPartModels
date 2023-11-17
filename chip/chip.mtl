@@ -1,0 +1,32 @@
+newmtl Chip1Mtl
+Material Color
+Ka 0.00969633 0.21952 0.00837312
+Kd 0.00969633 0.21952 0.00837312
+Ks 0.00646422 0.146346 0.00558208 
+
+d 1
+
+Ns 255
+
+map_Ka Chip1_diff.png
+map_Kd Chip1_diff.png
+map_d Chip1_diff.png
+
+map_Bump Chip1_nmap.png
+
+map_Ns Chip1_spec.png
+
+newmtl Chip2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Chip2_diff.png
+map_Kd Chip2_diff.png
+map_d Chip2_diff.png
+

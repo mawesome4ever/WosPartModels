@@ -1,0 +1,32 @@
+newmtl Button1Mtl
+Material Color
+Ka 0.708298 0.238828 0.0494335
+Kd 0.708298 0.238828 0.0494335
+Ks 0.472199 0.159219 0.0329556 
+
+d 1
+
+Ns 255
+
+map_Ka Button1_diff.png
+map_Kd Button1_diff.png
+map_d Button1_diff.png
+
+map_Bump Button1_nmap.png
+
+map_Ns Button1_spec.png
+
+newmtl Button2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Button2_diff.png
+map_Kd Button2_diff.png
+map_d Button2_diff.png
+

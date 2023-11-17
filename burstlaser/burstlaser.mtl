@@ -1,0 +1,52 @@
+newmtl Burstlaser4Mtl
+Material Color
+Ka 0.121986 0.121986 0.121986
+Kd 0.121986 0.121986 0.121986
+Ks 0.0483159 0.0483159 0.0483159 
+
+d 1
+
+Ns 0
+
+map_Ka Burstlaser4_diff.png
+map_Kd Burstlaser4_diff.png
+map_d Burstlaser4_diff.png
+
+newmtl Burstlaser1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0494072 0.0451216 0.0483159 
+
+d 1
+
+Ns 0
+
+newmtl Burstlaser2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Burstlaser2_diff.png
+map_Kd Burstlaser2_diff.png
+map_d Burstlaser2_diff.png
+
+newmtl Burstlaser3Mtl
+Material Color
+Ka 0.297653 0.297653 0.297653
+Kd 0.297653 0.297653 0.297653
+Ks 0.117894 0.117894 0.117894 
+
+d 1
+
+Ns 0
+
+map_Ka Burstlaser3_diff.png
+map_Kd Burstlaser3_diff.png
+map_d Burstlaser3_diff.png
+

@@ -1,0 +1,52 @@
+newmtl Chemicalsynthiser3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Chemicalsynthiser3_diff.png
+map_Kd Chemicalsynthiser3_diff.png
+map_d Chemicalsynthiser3_diff.png
+
+newmtl Chemicalsynthiser2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Chemicalsynthiser2_diff.png
+map_Kd Chemicalsynthiser2_diff.png
+map_d Chemicalsynthiser2_diff.png
+
+newmtl Chemicalsynthiser1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+newmtl Chemicalsynthiser4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Chemicalsynthiser4_diff.png
+map_Kd Chemicalsynthiser4_diff.png
+map_d Chemicalsynthiser4_diff.png
+

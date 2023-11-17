@@ -1,0 +1,52 @@
+newmtl Burnergenerator1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Burnergenerator2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Burnergenerator2_diff.png
+map_Kd Burnergenerator2_diff.png
+map_d Burnergenerator2_diff.png
+
+newmtl Burnergenerator3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Burnergenerator3_diff.png
+map_Kd Burnergenerator3_diff.png
+map_d Burnergenerator3_diff.png
+
+newmtl Burnergenerator4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Burnergenerator4_diff.png
+map_Kd Burnergenerator4_diff.png
+map_d Burnergenerator4_diff.png
+

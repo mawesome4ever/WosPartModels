@@ -1,0 +1,52 @@
+newmtl Boiler1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0494072 0.0451216 0.0483159 
+
+d 1
+
+Ns 0
+
+newmtl Boiler2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Boiler2_diff.png
+map_Kd Boiler2_diff.png
+map_d Boiler2_diff.png
+
+newmtl Boiler6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Boiler6_diff.png
+map_Kd Boiler6_diff.png
+map_d Boiler6_diff.png
+
+newmtl Boiler3Mtl
+Material Color
+Ka 0.0802193 0.0802193 0.0802193
+Kd 0.0802193 0.0802193 0.0802193
+Ks 0.0317731 0.0317731 0.0317731 
+
+d 1
+
+Ns 0
+
+map_Ka Boiler3_diff.png
+map_Kd Boiler3_diff.png
+map_d Boiler3_diff.png
+

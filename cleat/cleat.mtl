@@ -1,0 +1,14 @@
+newmtl Cleat1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00140295 0.00370843 0.00618655 
+
+d 1
+
+Ns 255
+
+map_Bump Cleat1_nmap.png
+
+map_Ns Cleat1_spec.png
+
