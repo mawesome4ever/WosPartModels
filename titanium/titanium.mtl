@@ -1,0 +1,18 @@
+newmtl Titanium1Mtl
+Material Color
+Ka 0.505432 0.45908 0.453456
+Kd 0.505432 0.45908 0.453456
+Ks 0.336955 0.306053 0.302304 
+
+d 1
+
+Ns 255
+
+map_Ka Titanium1_diff.png
+map_Kd Titanium1_diff.png
+map_d Titanium1_diff.png
+
+map_Bump Titanium1_nmap.png
+
+map_Ns Titanium1_spec.png
+

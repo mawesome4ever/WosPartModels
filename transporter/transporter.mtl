@@ -1,0 +1,116 @@
+newmtl Transporter2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Transporter2_diff.png
+map_Kd Transporter2_diff.png
+map_d Transporter2_diff.png
+
+newmtl Transporter1Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.0690894 0.0724741 0.0946535 
+
+d 1
+
+Ns 255
+
+map_Ka Transporter1_diff.png
+map_Kd Transporter1_diff.png
+map_d Transporter1_diff.png
+
+map_Bump Transporter1_nmap.png
+
+map_Ns Transporter1_spec.png
+
+newmtl Transporter3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Transporter3_diff.png
+map_Kd Transporter3_diff.png
+map_d Transporter3_diff.png
+
+newmtl Transporter8Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0850198 0.0850198 0.0850198 
+
+d 1
+
+Ns 255
+
+map_Ka Transporter8_diff.png
+map_Kd Transporter8_diff.png
+map_d Transporter8_diff.png
+
+newmtl Transporter4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Transporter4_diff.png
+map_Kd Transporter4_diff.png
+map_d Transporter4_diff.png
+
+newmtl Transporter5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Transporter5_diff.png
+map_Kd Transporter5_diff.png
+map_d Transporter5_diff.png
+
+newmtl Transporter6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Transporter6_diff.png
+map_Kd Transporter6_diff.png
+map_d Transporter6_diff.png
+
+newmtl Transporter7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Transporter7_diff.png
+map_Kd Transporter7_diff.png
+map_d Transporter7_diff.png
+

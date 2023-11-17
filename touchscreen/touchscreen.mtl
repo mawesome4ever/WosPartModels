@@ -1,0 +1,52 @@
+newmtl Touchscreen2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Touchscreen2_diff.png
+map_Kd Touchscreen2_diff.png
+map_d Touchscreen2_diff.png
+
+newmtl Touchscreen1Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00102419 0.00102419 0.00102419 
+
+d 1
+
+Ns 0
+
+newmtl Touchscreen4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Touchscreen4_diff.png
+map_Kd Touchscreen4_diff.png
+map_d Touchscreen4_diff.png
+
+newmtl Touchscreen5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Touchscreen5_diff.png
+map_Kd Touchscreen5_diff.png
+map_d Touchscreen5_diff.png
+

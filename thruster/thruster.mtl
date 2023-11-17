@@ -1,0 +1,56 @@
+newmtl Thruster1Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.109902 0.00333099 0.00151981 
+
+d 1
+
+Ns 255
+
+map_Bump Thruster1_nmap.png
+
+map_Ns Thruster1_spec.png
+
+newmtl Thruster3Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.109902 0.00333099 0.00151981 
+
+d 1
+
+Ns 255
+
+map_Ka Thruster3_diff.png
+map_Kd Thruster3_diff.png
+map_d Thruster3_diff.png
+
+newmtl Thruster2Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 255
+
+map_Ka Thruster2_diff.png
+map_Kd Thruster2_diff.png
+map_d Thruster2_diff.png
+
+newmtl Thruster4Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 255
+
+map_Ka Thruster4_diff.png
+map_Kd Thruster4_diff.png
+map_d Thruster4_diff.png
+

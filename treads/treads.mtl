@@ -1,0 +1,60 @@
+newmtl Treads1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0831606 0.0759473 0.0813238 
+
+d 1
+
+Ns 255
+
+map_Ka Treads1_diff.png
+map_Kd Treads1_diff.png
+map_d Treads1_diff.png
+
+map_Bump Treads1_nmap.png
+
+map_Ns Treads1_spec.png
+
+newmtl Treads3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Treads3_diff.png
+map_Kd Treads3_diff.png
+map_d Treads3_diff.png
+
+newmtl Treads2Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 255
+
+map_Ka Treads2_diff.png
+map_Kd Treads2_diff.png
+map_d Treads2_diff.png
+
+newmtl Treads5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Treads5_diff.png
+map_Kd Treads5_diff.png
+map_d Treads5_diff.png
+

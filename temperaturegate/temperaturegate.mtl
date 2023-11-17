@@ -1,0 +1,14 @@
+newmtl Temperaturegate1Mtl
+Material Color
+Ka 0.124741 0.0399472 0.0356144
+Kd 0.124741 0.0399472 0.0356144
+Ks 0.024459 0.00783278 0.00698321 
+
+d 1
+
+Ns 255
+
+map_Bump Temperaturegate1_nmap.png
+
+map_Ns Temperaturegate1_spec.png
+

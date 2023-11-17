@@ -1,0 +1,52 @@
+newmtl Transistor2Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka Transistor2_diff.png
+map_Kd Transistor2_diff.png
+map_d Transistor2_diff.png
+
+newmtl Transistor1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+newmtl Transistor3Mtl
+Material Color
+Ka 0.166872 0.0265487 0.0265487
+Kd 0.166872 0.0265487 0.0265487
+Ks 0.0660945 0.0105154 0.0105154 
+
+d 1
+
+Ns 0
+
+map_Ka Transistor3_diff.png
+map_Kd Transistor3_diff.png
+map_d Transistor3_diff.png
+
+newmtl Transistor4Mtl
+Material Color
+Ka 1 0.383775 0.00369724
+Kd 1 0.383775 0.00369724
+Ks 0.396078 0.152005 0.0014644 
+
+d 1
+
+Ns 0
+
+map_Ka Transistor4_diff.png
+map_Kd Transistor4_diff.png
+map_d Transistor4_diff.png
+

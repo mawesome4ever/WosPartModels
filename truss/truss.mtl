@@ -1,0 +1,18 @@
+newmtl Truss1Mtl
+Material Color
+Ka 0.353741 0.363604 0.420508
+Kd 0.353741 0.363604 0.420508
+Ks 0.0152594 0.0156849 0.0181396 
+
+d 1
+
+Ns 0
+
+map_Ka Truss1_diff.png
+map_Kd Truss1_diff.png
+map_d Truss1_diff.png
+
+map_Bump Truss1_nmap.png
+
+map_Ns Truss1_spec.png
+

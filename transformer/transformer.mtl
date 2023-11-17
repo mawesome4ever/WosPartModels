@@ -1,0 +1,32 @@
+newmtl Transformer1Mtl
+Material Color
+Ka 0.74453 0.74453 0.737205
+Kd 0.74453 0.74453 0.737205
+Ks 0.496353 0.496353 0.49147 
+
+d 1
+
+Ns 255
+
+map_Ka Transformer1_diff.png
+map_Kd Transformer1_diff.png
+map_d Transformer1_diff.png
+
+map_Bump Transformer1_nmap.png
+
+map_Ns Transformer1_spec.png
+
+newmtl Transformer2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Transformer2_diff.png
+map_Kd Transformer2_diff.png
+map_d Transformer2_diff.png
+
