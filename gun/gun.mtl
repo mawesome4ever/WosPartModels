@@ -1,0 +1,60 @@
+newmtl Gun1Mtl
+Material Color
+Ka 0.0802193 0.0802193 0.0802193
+Kd 0.0802193 0.0802193 0.0802193
+Ks 0.0534795 0.0534795 0.0534795 
+
+d 1
+
+Ns 255
+
+map_Ka Gun1_diff.png
+map_Kd Gun1_diff.png
+map_d Gun1_diff.png
+
+map_Bump Gun1_nmap.png
+
+map_Ns Gun1_spec.png
+
+newmtl Gun3Mtl
+Material Color
+Ka 0.297653 0.297653 0.297653
+Kd 0.297653 0.297653 0.297653
+Ks 0.198435 0.198435 0.198435 
+
+d 1
+
+Ns 255
+
+map_Ka Gun3_diff.png
+map_Kd Gun3_diff.png
+map_d Gun3_diff.png
+
+newmtl Gun2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Gun2_diff.png
+map_Kd Gun2_diff.png
+map_d Gun2_diff.png
+
+newmtl Gun4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Gun4_diff.png
+map_Kd Gun4_diff.png
+map_d Gun4_diff.png
+

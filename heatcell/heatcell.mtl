@@ -1,0 +1,38 @@
+newmtl Heatcell2Mtl
+Material Color
+Ka 0.373615 0.0657539 0.0657539
+Kd 0.373615 0.0657539 0.0657539
+Ks 0.147981 0.0260437 0.0260437 
+
+d 1
+
+Ns 0
+
+map_Ka Heatcell2_diff.png
+map_Kd Heatcell2_diff.png
+map_d Heatcell2_diff.png
+
+newmtl Heatcell1Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.147981 0.0268243 0.0268243 
+
+d 1
+
+Ns 0
+
+newmtl Heatcell6Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.147981 0.0268243 0.0268243 
+
+d 1
+
+Ns 0
+
+map_Ka Heatcell6_diff.png
+map_Kd Heatcell6_diff.png
+map_d Heatcell6_diff.png
+

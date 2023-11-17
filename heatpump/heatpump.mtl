@@ -1,0 +1,32 @@
+newmtl Heatpump1Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.249077 0.0451497 0.0451497 
+
+d 1
+
+Ns 255
+
+map_Ka Heatpump1_diff.png
+map_Kd Heatpump1_diff.png
+map_d Heatpump1_diff.png
+
+map_Bump Heatpump1_nmap.png
+
+map_Ns Heatpump1_spec.png
+
+newmtl Heatpump2Mtl
+Material Color
+Ka 1 0.163641 0.0477758
+Kd 1 0.163641 0.0477758
+Ks 0.666667 0.109094 0.0318505 
+
+d 1
+
+Ns 255
+
+map_Ka Heatpump2_diff.png
+map_Kd Heatpump2_diff.png
+map_d Heatpump2_diff.png
+

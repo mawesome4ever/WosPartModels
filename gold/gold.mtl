@@ -1,0 +1,18 @@
+newmtl Gold1Mtl
+Material Color
+Ka 0.867136 0.487765 0.0356144
+Kd 0.867136 0.487765 0.0356144
+Ks 0.12582 0.0707738 0.00516758 
+
+d 1
+
+Ns 0
+
+map_Ka Gold1_diff.png
+map_Kd Gold1_diff.png
+map_d Gold1_diff.png
+
+map_Bump Gold1_nmap.png
+
+map_Ns Gold1_spec.png
+

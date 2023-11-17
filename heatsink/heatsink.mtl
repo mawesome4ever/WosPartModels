@@ -1,0 +1,130 @@
+newmtl Heatsink1Mtl
+Material Color
+Ka 0.0528416 0.157281 0.373615
+Kd 0.0528416 0.157281 0.373615
+Ks 0.0352278 0.104854 0.249077 
+
+d 1
+
+Ns 255
+
+map_Ka Heatsink1_diff.png
+map_Kd Heatsink1_diff.png
+map_d Heatsink1_diff.png
+
+map_Bump Heatsink1_nmap.png
+
+map_Ns Heatsink1_spec.png
+
+newmtl Heatsink8Mtl
+Material Color
+Ka 0.464741 0.464741 0.464741
+Kd 0.464741 0.464741 0.464741
+Ks 0.309827 0.309827 0.309827 
+
+d 1
+
+Ns 255
+
+map_Ka Heatsink8_diff.png
+map_Kd Heatsink8_diff.png
+map_d Heatsink8_diff.png
+
+newmtl Heatsink5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Heatsink5_diff.png
+map_Kd Heatsink5_diff.png
+map_d Heatsink5_diff.png
+
+newmtl Heatsink2Mtl
+Material Color
+Ka 0.21952 0.687031 1
+Kd 0.21952 0.687031 1
+Ks 0.146346 0.458021 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Heatsink2_diff.png
+map_Kd Heatsink2_diff.png
+map_d Heatsink2_diff.png
+
+newmtl Heatsink3Mtl
+Material Color
+Ka 0.21952 0.687031 1
+Kd 0.21952 0.687031 1
+Ks 0.146346 0.458021 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Heatsink3_diff.png
+map_Kd Heatsink3_diff.png
+map_d Heatsink3_diff.png
+
+newmtl Heatsink4Mtl
+Material Color
+Ka 0.21952 0.687031 1
+Kd 0.21952 0.687031 1
+Ks 0.146346 0.458021 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Heatsink4_diff.png
+map_Kd Heatsink4_diff.png
+map_d Heatsink4_diff.png
+
+newmtl Heatsink6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Heatsink6_diff.png
+map_Kd Heatsink6_diff.png
+map_d Heatsink6_diff.png
+
+newmtl Heatsink7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Heatsink7_diff.png
+map_Kd Heatsink7_diff.png
+map_d Heatsink7_diff.png
+
+newmtl Heatsink10Mtl
+Material Color
+Ka 0.136099 0.136099 0.136099
+Kd 0.136099 0.136099 0.136099
+Ks 0.0907324 0.0907324 0.0907324 
+
+d 1
+
+Ns 255
+
+map_Ka Heatsink10_diff.png
+map_Kd Heatsink10_diff.png
+map_d Heatsink10_diff.png
+

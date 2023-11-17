@@ -1,0 +1,18 @@
+newmtl Goo1Mtl
+Material Color
+Ka 0.103634 0.329729 0.0697271
+Kd 0.103634 0.329729 0.0697271
+Ks 0.103634 0.329729 0.0697271 
+
+d 0.901961
+
+Ns 0
+
+map_Ka Goo1_diff.png
+map_Kd Goo1_diff.png
+map_d Goo1_diff.png
+
+map_Bump Goo1_nmap.png
+
+map_Ns Goo1_spec.png
+

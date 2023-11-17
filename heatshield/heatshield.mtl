@@ -1,0 +1,60 @@
+newmtl Heatshield1Mtl
+Material Color
+Ka 0.409826 0.409826 0.215764
+Kd 0.409826 0.409826 0.215764
+Ks 0.273217 0.273217 0.143843 
+
+d 1
+
+Ns 255
+
+map_Ka Heatshield1_diff.png
+map_Kd Heatshield1_diff.png
+map_d Heatshield1_diff.png
+
+map_Bump Heatshield1_nmap.png
+
+map_Ns Heatshield1_spec.png
+
+newmtl Heatshield2Mtl
+Material Color
+Ka 0 0.827726 1
+Kd 0 0.827726 1
+Ks 0 0.551817 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Heatshield2_diff.png
+map_Kd Heatshield2_diff.png
+map_d Heatshield2_diff.png
+
+newmtl Heatshield3Mtl
+Material Color
+Ka 1 0.0143105 0.0143105
+Kd 1 0.0143105 0.0143105
+Ks 0.666667 0.00954035 0.00954035 
+
+d 1
+
+Ns 255
+
+map_Ka Heatshield2_diff.png
+map_Kd Heatshield2_diff.png
+map_d Heatshield2_diff.png
+
+newmtl Heatshield4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Heatshield4_diff.png
+map_Kd Heatshield4_diff.png
+map_d Heatshield4_diff.png
+

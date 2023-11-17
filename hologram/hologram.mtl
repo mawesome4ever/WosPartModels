@@ -1,0 +1,60 @@
+newmtl Hologram1Mtl
+Material Color
+Ka 0.851252 0.827726 0.827726
+Kd 0.851252 0.827726 0.827726
+Ks 0.567501 0.551817 0.551817 
+
+d 1
+
+Ns 255
+
+map_Ka Hologram1_diff.png
+map_Kd Hologram1_diff.png
+map_d Hologram1_diff.png
+
+map_Bump Hologram1_nmap.png
+
+map_Ns Hologram1_spec.png
+
+newmtl Hologram2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Hologram2_diff.png
+map_Kd Hologram2_diff.png
+map_d Hologram2_diff.png
+
+newmtl Hologram3Mtl
+Material Color
+Ka 0.227137 0.453456 0.554227
+Kd 0.227137 0.453456 0.554227
+Ks 0.151424 0.302304 0.369485 
+
+d 1
+
+Ns 255
+
+map_Ka Hologram3_diff.png
+map_Kd Hologram3_diff.png
+map_d Hologram3_diff.png
+
+newmtl Hologram4Mtl
+Material Color
+Ka 0.20836 0.415148 0.511398
+Kd 0.20836 0.415148 0.511398
+Ks 0.138906 0.276765 0.340932 
+
+d 1
+
+Ns 255
+
+map_Ka Hologram4_diff.png
+map_Kd Hologram4_diff.png
+map_d Hologram4_diff.png
+
