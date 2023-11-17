@@ -1,0 +1,38 @@
+newmtl Devbattery2Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+map_Ka Devbattery2_diff.png
+map_Kd Devbattery2_diff.png
+map_d Devbattery2_diff.png
+
+newmtl Devbattery1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+newmtl Devbattery6Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+map_Ka Devbattery6_diff.png
+map_Kd Devbattery6_diff.png
+map_d Devbattery6_diff.png
+

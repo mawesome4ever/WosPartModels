@@ -1,0 +1,24 @@
+newmtl Devgenerator1Mtl
+Material Color
+Ka 0.373615 0.373615 0.373615
+Kd 0.373615 0.373615 0.373615
+Ks 0.147981 0.147981 0.147981 
+
+d 1
+
+Ns 0
+
+newmtl Devgenerator2Mtl
+Material Color
+Ka 0.373615 0.373615 0.373615
+Kd 0.373615 0.373615 0.373615
+Ks 0.147981 0.147981 0.147981 
+
+d 1
+
+Ns 0
+
+map_Ka Devgenerator2_diff.png
+map_Kd Devgenerator2_diff.png
+map_d Devgenerator2_diff.png
+

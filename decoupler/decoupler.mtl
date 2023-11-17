@@ -1,0 +1,46 @@
+newmtl Decoupler1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Decoupler1_diff.png
+map_Kd Decoupler1_diff.png
+map_d Decoupler1_diff.png
+
+map_Bump Decoupler1_nmap.png
+
+map_Ns Decoupler1_spec.png
+
+newmtl Decoupler2Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Decoupler2_diff.png
+map_Kd Decoupler2_diff.png
+map_d Decoupler2_diff.png
+
+newmtl Decoupler3Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Decoupler3_diff.png
+map_Kd Decoupler3_diff.png
+map_d Decoupler3_diff.png
+

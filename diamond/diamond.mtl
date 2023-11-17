@@ -1,0 +1,18 @@
+newmtl Diamond1Mtl
+Material Color
+Ka 0.320382 0.547994 0.715465
+Kd 0.320382 0.547994 0.715465
+Ks 0.320382 0.547994 0.715465 
+
+d 0.803922
+
+Ns 0
+
+map_Ka Diamond1_diff.png
+map_Kd Diamond1_diff.png
+map_d Diamond1_diff.png
+
+map_Bump Diamond1_nmap.png
+
+map_Ns Diamond1_spec.png
+

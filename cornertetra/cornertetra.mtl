@@ -1,0 +1,18 @@
+newmtl Cornertetra1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0431373 0.0431373 0.0431373 
+
+d 1
+
+Ns 0
+
+map_Ka Cornertetra1_diff.png
+map_Kd Cornertetra1_diff.png
+map_d Cornertetra1_diff.png
+
+map_Bump Cornertetra1_nmap.png
+
+map_Ns Cornertetra1_spec.png
+

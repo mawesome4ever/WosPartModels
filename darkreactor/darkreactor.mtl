@@ -1,0 +1,136 @@
+newmtl Darkreactor1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00283396 0.00749103 0.0124968 
+
+d 1
+
+Ns 0
+
+newmtl Darkreactor2Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00283396 0.00749103 0.0124968 
+
+d 1
+
+Ns 0
+
+map_Ka Darkreactor2_diff.png
+map_Kd Darkreactor2_diff.png
+map_d Darkreactor2_diff.png
+
+newmtl Darkreactor4Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00283396 0.00749103 0.0124968 
+
+d 1
+
+Ns 0
+
+map_Ka Darkreactor4_diff.png
+map_Kd Darkreactor4_diff.png
+map_d Darkreactor4_diff.png
+
+newmtl Darkreactor6Mtl
+Material Color
+Ka 0.0370285 0.0986892 0.163641
+Kd 0.0370285 0.0986892 0.163641
+Ks 0.0146662 0.0390887 0.0648145 
+
+d 1
+
+Ns 0
+
+map_Ka Darkreactor6_diff.png
+map_Kd Darkreactor6_diff.png
+map_d Darkreactor6_diff.png
+
+newmtl Darkreactor8Mtl
+Material Color
+Ka 1 0.267358 1
+Kd 1 0.267358 1
+Ks 0.396078 0.105895 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Darkreactor8_diff.png
+map_Kd Darkreactor8_diff.png
+map_d Darkreactor8_diff.png
+
+newmtl Darkreactor7Mtl
+Material Color
+Ka 1 0.267358 1
+Kd 1 0.267358 1
+Ks 0.396078 0.105895 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Darkreactor7_diff.png
+map_Kd Darkreactor7_diff.png
+map_d Darkreactor7_diff.png
+
+newmtl Darkreactor9Mtl
+Material Color
+Ka 0.687031 0.00168692 1
+Kd 0.687031 0.00168692 1
+Ks 0.272118 0.000668151 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Darkreactor9_diff.png
+map_Kd Darkreactor9_diff.png
+map_d Darkreactor9_diff.png
+
+newmtl Darkreactor10Mtl
+Material Color
+Ka 1 0.267358 1
+Kd 1 0.267358 1
+Ks 0.396078 0.105895 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Darkreactor10_diff.png
+map_Kd Darkreactor10_diff.png
+map_d Darkreactor10_diff.png
+
+newmtl Darkreactor11Mtl
+Material Color
+Ka 1 0.267358 1
+Kd 1 0.267358 1
+Ks 0.396078 0.105895 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Darkreactor11_diff.png
+map_Kd Darkreactor11_diff.png
+map_d Darkreactor11_diff.png
+
+newmtl Darkreactor12Mtl
+Material Color
+Ka 1 0.267358 1
+Kd 1 0.267358 1
+Ks 0.396078 0.105895 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Darkreactor12_diff.png
+map_Kd Darkreactor12_diff.png
+map_d Darkreactor12_diff.png
+

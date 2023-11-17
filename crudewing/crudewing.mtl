@@ -1,0 +1,46 @@
+newmtl Crudewing1Mtl
+Material Color
+Ka 0.20471 0.106156 0.0581872
+Kd 0.20471 0.106156 0.0581872
+Ks 0.011239 0.00582818 0.00319459 
+
+d 1
+
+Ns 0
+
+map_Ka Crudewing1_diff.png
+map_Kd Crudewing1_diff.png
+map_d Crudewing1_diff.png
+
+map_Bump Crudewing1_nmap.png
+
+map_Ns Crudewing1_spec.png
+
+newmtl Crudewing2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.054902 0.054902 0.054902 
+
+d 1
+
+Ns 0
+
+map_Ka Crudewing2_diff.png
+map_Kd Crudewing2_diff.png
+map_d Crudewing2_diff.png
+
+newmtl Crudewing3Mtl
+Material Color
+Ka 0.20471 0.106156 0.0581872
+Kd 0.20471 0.106156 0.0581872
+Ks 0.011239 0.00582818 0.00319459 
+
+d 1
+
+Ns 0
+
+map_Ka Crudewing3_diff.png
+map_Kd Crudewing3_diff.png
+map_d Crudewing3_diff.png
+

@@ -1,0 +1,88 @@
+newmtl Coupler1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Coupler1_diff.png
+map_Kd Coupler1_diff.png
+map_d Coupler1_diff.png
+
+map_Bump Coupler1_nmap.png
+
+map_Ns Coupler1_spec.png
+
+newmtl Coupler2Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Coupler2_diff.png
+map_Kd Coupler2_diff.png
+map_d Coupler2_diff.png
+
+newmtl Coupler11Mtl
+Material Color
+Ka 0.166872 0.130352 0.0638149
+Kd 0.166872 0.130352 0.0638149
+Ks 0.111248 0.0869015 0.0425432 
+
+d 1
+
+Ns 255
+
+map_Ka Coupler11_diff.png
+map_Kd Coupler11_diff.png
+map_d Coupler11_diff.png
+
+newmtl Coupler3Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Coupler3_diff.png
+map_Kd Coupler3_diff.png
+map_d Coupler3_diff.png
+
+newmtl Coupler5Mtl
+Material Color
+Ka 0.163641 0.163641 0.163641
+Kd 0.163641 0.163641 0.163641
+Ks 0.109094 0.109094 0.109094 
+
+d 1
+
+Ns 255
+
+map_Ka Coupler5_diff.png
+map_Kd Coupler5_diff.png
+map_d Coupler5_diff.png
+
+newmtl Coupler7Mtl
+Material Color
+Ka 0.701169 0.701169 0.701169
+Kd 0.701169 0.701169 0.701169
+Ks 0.467446 0.467446 0.467446 
+
+d 1
+
+Ns 255
+
+map_Ka Coupler7_diff.png
+map_Kd Coupler7_diff.png
+map_d Coupler7_diff.png
+

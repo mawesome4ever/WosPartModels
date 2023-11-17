@@ -1,0 +1,38 @@
+newmtl Devheatstorage1Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.147981 0.0268243 0.0268243 
+
+d 1
+
+Ns 0
+
+newmtl Devheatstorage2Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.147981 0.0268243 0.0268243 
+
+d 1
+
+Ns 0
+
+map_Ka Devheatstorage2_diff.png
+map_Kd Devheatstorage2_diff.png
+map_d Devheatstorage2_diff.png
+
+newmtl Devheatstorage6Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.147981 0.0268243 0.0268243 
+
+d 1
+
+Ns 0
+
+map_Ka Devheatstorage6_diff.png
+map_Kd Devheatstorage6_diff.png
+map_d Devheatstorage6_diff.png
+

@@ -1,0 +1,66 @@
+newmtl Darkconverter2Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000645356 0.00170588 0.00284581 
+
+d 1
+
+Ns 0
+
+map_Ka Darkconverter2_diff.png
+map_Kd Darkconverter2_diff.png
+map_d Darkconverter2_diff.png
+
+newmtl Darkconverter1Mtl
+Material Color
+Ka 1 0.133209 0.612066
+Kd 1 0.133209 0.612066
+Ks 0.0901961 0.0120149 0.0552059 
+
+d 1
+
+Ns 0
+
+newmtl Darkconverter4Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000645356 0.00170588 0.00284581 
+
+d 1
+
+Ns 0
+
+map_Ka Darkconverter4_diff.png
+map_Kd Darkconverter4_diff.png
+map_d Darkconverter4_diff.png
+
+newmtl Darkconverter6Mtl
+Material Color
+Ka 0.0370285 0.0986892 0.163641
+Kd 0.0370285 0.0986892 0.163641
+Ks 0.00333983 0.00890138 0.0147597 
+
+d 1
+
+Ns 0
+
+map_Ka Darkconverter6_diff.png
+map_Kd Darkconverter6_diff.png
+map_d Darkconverter6_diff.png
+
+newmtl Darkconverter7Mtl
+Material Color
+Ka 1 0.133209 0.612066
+Kd 1 0.133209 0.612066
+Ks 0.0901961 0.0120149 0.0552059 
+
+d 1
+
+Ns 0
+
+map_Ka Darkconverter7_diff.png
+map_Kd Darkconverter7_diff.png
+map_d Darkconverter7_diff.png
+
