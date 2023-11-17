@@ -1,0 +1,24 @@
+newmtl Dispenser1Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.0410472 0.0430581 0.0562353 
+
+d 1
+
+Ns 0
+
+newmtl Dispenser2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Dispenser2_diff.png
+map_Kd Dispenser2_diff.png
+map_d Dispenser2_diff.png
+

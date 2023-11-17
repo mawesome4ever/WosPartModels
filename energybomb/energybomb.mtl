@@ -1,0 +1,38 @@
+newmtl Energybomb1Mtl
+Material Color
+Ka 0.940601 0.701169 0.154152
+Kd 0.940601 0.701169 0.154152
+Ks 0.0848385 0.0632427 0.0139039 
+
+d 1
+
+Ns 0
+
+newmtl Energybomb6Mtl
+Material Color
+Ka 0.940601 0.701169 0.154152
+Kd 0.940601 0.701169 0.154152
+Ks 0.0848385 0.0632427 0.0139039 
+
+d 1
+
+Ns 0
+
+map_Ka Energybomb6_diff.png
+map_Kd Energybomb6_diff.png
+map_d Energybomb6_diff.png
+
+newmtl Energybomb2Mtl
+Material Color
+Ka 1 1 0
+Kd 1 1 0
+Ks 0.0901961 0.0901961 0 
+
+d 0.803922
+
+Ns 0
+
+map_Ka Energybomb2_diff.png
+map_Kd Energybomb2_diff.png
+map_d Energybomb2_diff.png
+

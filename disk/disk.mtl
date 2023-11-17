@@ -1,0 +1,88 @@
+newmtl Disk5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Disk5_diff.png
+map_Kd Disk5_diff.png
+map_d Disk5_diff.png
+
+newmtl Disk1Mtl
+Material Color
+Ka 0.708298 0.238828 0.0494335
+Kd 0.708298 0.238828 0.0494335
+Ks 0.472199 0.159219 0.0329556 
+
+d 1
+
+Ns 255
+
+map_Ka Disk1_diff.png
+map_Kd Disk1_diff.png
+map_d Disk1_diff.png
+
+map_Bump Disk1_nmap.png
+
+map_Ns Disk1_spec.png
+
+newmtl Disk2Mtl
+Material Color
+Ka 0.708298 0.238828 0.0494335
+Kd 0.708298 0.238828 0.0494335
+Ks 0.472199 0.159219 0.0329556 
+
+d 1
+
+Ns 255
+
+map_Ka Disk2_diff.png
+map_Kd Disk2_diff.png
+map_d Disk2_diff.png
+
+newmtl Disk6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Disk6_diff.png
+map_Kd Disk6_diff.png
+map_d Disk6_diff.png
+
+newmtl Disk7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Disk7_diff.png
+map_Kd Disk7_diff.png
+map_d Disk7_diff.png
+
+newmtl Disk8Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Disk8_diff.png
+map_Kd Disk8_diff.png
+map_d Disk8_diff.png
+

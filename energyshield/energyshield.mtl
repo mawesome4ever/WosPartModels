@@ -1,0 +1,66 @@
+newmtl Energyshield1Mtl
+Material Color
+Ka 0.215764 0.453456 1
+Kd 0.215764 0.453456 1
+Ks 0.0854596 0.179604 0.396078 
+
+d 1
+
+Ns 0
+
+newmtl Energyshield2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Energyshield2_diff.png
+map_Kd Energyshield2_diff.png
+map_d Energyshield2_diff.png
+
+newmtl Energyshield5Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Energyshield5_diff.png
+map_Kd Energyshield5_diff.png
+map_d Energyshield5_diff.png
+
+newmtl Energyshield3Mtl
+Material Color
+Ka 0.12753 0.12753 0.12753
+Kd 0.12753 0.12753 0.12753
+Ks 0.0505118 0.0505118 0.0505118 
+
+d 1
+
+Ns 0
+
+map_Ka Energyshield3_diff.png
+map_Kd Energyshield3_diff.png
+map_d Energyshield3_diff.png
+
+newmtl Energyshield7Mtl
+Material Color
+Ka 0 0.827726 1
+Kd 0 0.827726 1
+Ks 0 0.327844 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Energyshield7_diff.png
+map_Kd Energyshield7_diff.png
+map_d Energyshield7_diff.png
+

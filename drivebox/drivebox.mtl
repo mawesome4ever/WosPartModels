@@ -1,0 +1,60 @@
+newmtl Drivebox1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Drivebox1_diff.png
+map_Kd Drivebox1_diff.png
+map_d Drivebox1_diff.png
+
+map_Bump Drivebox1_nmap.png
+
+map_Ns Drivebox1_spec.png
+
+newmtl Drivebox2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Drivebox2_diff.png
+map_Kd Drivebox2_diff.png
+map_d Drivebox2_diff.png
+
+newmtl Drivebox4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Drivebox4_diff.png
+map_Kd Drivebox4_diff.png
+map_d Drivebox4_diff.png
+
+newmtl Drivebox6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Drivebox6_diff.png
+map_Kd Drivebox6_diff.png
+map_d Drivebox6_diff.png
+

@@ -1,0 +1,60 @@
+newmtl Energygun1Mtl
+Material Color
+Ka 0.000638183 0.254916 0.632043
+Kd 0.000638183 0.254916 0.632043
+Ks 0.000425455 0.169944 0.421362 
+
+d 1
+
+Ns 255
+
+map_Ka Energygun1_diff.png
+map_Kd Energygun1_diff.png
+map_d Energygun1_diff.png
+
+map_Bump Energygun1_nmap.png
+
+map_Ns Energygun1_spec.png
+
+newmtl Energygun7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Energygun7_diff.png
+map_Kd Energygun7_diff.png
+map_d Energygun7_diff.png
+
+newmtl Energygun3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Energygun3_diff.png
+map_Kd Energygun3_diff.png
+map_d Energygun3_diff.png
+
+newmtl Energygun2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Energygun2_diff.png
+map_Kd Energygun2_diff.png
+map_d Energygun2_diff.png
+

@@ -1,0 +1,24 @@
+newmtl Ethernetcable1Mtl
+Material Color
+Ka 0.0289912 0.0962661 0.227137
+Kd 0.0289912 0.0962661 0.227137
+Ks 0.0114828 0.0381289 0.0899639 
+
+d 1
+
+Ns 0
+
+newmtl Ethernetcable2Mtl
+Material Color
+Ka 0.0289912 0.0962661 0.227137
+Kd 0.0289912 0.0962661 0.227137
+Ks 0.0114828 0.0381289 0.0899639 
+
+d 0.501961
+
+Ns 0
+
+map_Ka Ethernetcable2_diff.png
+map_Kd Ethernetcable2_diff.png
+map_d Ethernetcable2_diff.png
+
