@@ -1,0 +1,32 @@
+newmtl Wirelessbutton1Mtl
+Material Color
+Ka 0 1 0
+Kd 0 1 0
+Ks 0 0.666667 0 
+
+d 1
+
+Ns 255
+
+map_Ka Wirelessbutton1_diff.png
+map_Kd Wirelessbutton1_diff.png
+map_d Wirelessbutton1_diff.png
+
+map_Bump Wirelessbutton1_nmap.png
+
+map_Ns Wirelessbutton1_spec.png
+
+newmtl Wirelessbutton2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Wirelessbutton2_diff.png
+map_Kd Wirelessbutton2_diff.png
+map_d Wirelessbutton2_diff.png
+

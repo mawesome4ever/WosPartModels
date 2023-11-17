@@ -1,0 +1,14 @@
+newmtl Handle1Mtl
+Material Color
+Ka 1 0.133209 1
+Kd 1 0.133209 1
+Ks 0.666667 0.0888057 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Handle1_diff.png
+map_Kd Handle1_diff.png
+map_d Handle1_diff.png
+

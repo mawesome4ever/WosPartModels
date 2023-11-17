@@ -1,0 +1,18 @@
+newmtl Wood1Mtl
+Material Color
+Ka 0.14198 0.0477758 0.0169881
+Kd 0.14198 0.0477758 0.0169881
+Ks 0.007795 0.00262298 0.000932677 
+
+d 1
+
+Ns 0
+
+map_Ka Wood1_diff.png
+map_Kd Wood1_diff.png
+map_d Wood1_diff.png
+
+map_Bump Wood1_nmap.png
+
+map_Ns Wood1_spec.png
+

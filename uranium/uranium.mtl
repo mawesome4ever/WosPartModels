@@ -1,0 +1,18 @@
+newmtl Uranium1Mtl
+Material Color
+Ka 0.0199178 0.363604 0.0126637
+Kd 0.0199178 0.363604 0.0126637
+Ks 0.00156218 0.028518 0.000993233 
+
+d 1
+
+Ns 0
+
+map_Ka Uranium1_diff.png
+map_Kd Uranium1_diff.png
+map_d Uranium1_diff.png
+
+map_Bump Uranium1_nmap.png
+
+map_Ns Uranium1_spec.png
+

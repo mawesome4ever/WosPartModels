@@ -1,0 +1,18 @@
+newmtl Water1Mtl
+Material Color
+Ka 0.353741 0.899384 0.819964
+Kd 0.353741 0.899384 0.819964
+Ks 0.353741 0.899384 0.819964 
+
+d 0.701961
+
+Ns 0
+
+map_Ka Water1_diff.png
+map_Kd Water1_diff.png
+map_d Water1_diff.png
+
+map_Bump Water1_nmap.png
+
+map_Ns Water1_spec.png
+

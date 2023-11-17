@@ -1,0 +1,16 @@
+newmtl Windturbine1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Windturbine1_diff.png
+map_Kd Windturbine1_diff.png
+map_d Windturbine1_diff.png
+
+map_Bump Windturbine1_nmap.png
+

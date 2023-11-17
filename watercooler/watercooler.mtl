@@ -1,0 +1,46 @@
+newmtl Watercooler1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0831606 0.0759473 0.0813238 
+
+d 1
+
+Ns 255
+
+map_Ka Watercooler1_diff.png
+map_Kd Watercooler1_diff.png
+map_d Watercooler1_diff.png
+
+map_Bump Watercooler1_nmap.png
+
+map_Ns Watercooler1_spec.png
+
+newmtl Watercooler2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Watercooler2_diff.png
+map_Kd Watercooler2_diff.png
+map_d Watercooler2_diff.png
+
+newmtl Watercooler6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Watercooler6_diff.png
+map_Kd Watercooler6_diff.png
+map_d Watercooler6_diff.png
+
