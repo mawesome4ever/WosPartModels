@@ -1,0 +1,38 @@
+newmtl Modem1Mtl
+Material Color
+Ka 0.0545923 0.0545923 0.0545923
+Kd 0.0545923 0.0545923 0.0545923
+Ks 0.0216228 0.0216228 0.0216228 
+
+d 1
+
+Ns 0
+
+newmtl Modem2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Modem2_diff.png
+map_Kd Modem2_diff.png
+map_d Modem2_diff.png
+
+newmtl Modem3Mtl
+Material Color
+Ka 0.0511221 0.0511221 0.0511221
+Kd 0.0511221 0.0511221 0.0511221
+Ks 0.0202483 0.0202483 0.0202483 
+
+d 1
+
+Ns 0
+
+map_Ka Modem3_diff.png
+map_Kd Modem3_diff.png
+map_d Modem3_diff.png
+

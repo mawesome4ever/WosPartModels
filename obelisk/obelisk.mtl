@@ -1,0 +1,46 @@
+newmtl Obelisk1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00625715 0.0165396 0.027592 
+
+d 1
+
+Ns 0
+
+map_Ka Obelisk1_diff.png
+map_Kd Obelisk1_diff.png
+map_d Obelisk1_diff.png
+
+map_Bump Obelisk1_nmap.png
+
+map_Ns Obelisk1_spec.png
+
+newmtl Obelisk2Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00625715 0.0165396 0.027592 
+
+d 1
+
+Ns 0
+
+map_Ka Obelisk2_diff.png
+map_Kd Obelisk2_diff.png
+map_d Obelisk2_diff.png
+
+newmtl Obelisk7Mtl
+Material Color
+Ka 0 1 0
+Kd 0 1 0
+Ks 0 0.87451 0 
+
+d 1
+
+Ns 0
+
+map_Ka Obelisk2_diff.png
+map_Kd Obelisk2_diff.png
+map_d Obelisk2_diff.png
+

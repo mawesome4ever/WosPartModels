@@ -1,0 +1,24 @@
+newmtl Microcontroller1Mtl
+Material Color
+Ka 0.0209511 0.130352 0.00837312
+Kd 0.0209511 0.130352 0.00837312
+Ks 0.00829829 0.0516297 0.00331641 
+
+d 1
+
+Ns 0
+
+newmtl Microcontroller2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Microcontroller2_diff.png
+map_Kd Microcontroller2_diff.png
+map_d Microcontroller2_diff.png
+

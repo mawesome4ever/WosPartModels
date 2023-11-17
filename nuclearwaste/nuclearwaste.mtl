@@ -1,0 +1,18 @@
+newmtl Nuclearwaste1Mtl
+Material Color
+Ka 0.12753 0.154152 0.0511221
+Kd 0.12753 0.154152 0.0511221
+Ks 0.0850198 0.102768 0.0340814 
+
+d 1
+
+Ns 255
+
+map_Ka Nuclearwaste1_diff.png
+map_Kd Nuclearwaste1_diff.png
+map_d Nuclearwaste1_diff.png
+
+map_Bump Nuclearwaste1_nmap.png
+
+map_Ns Nuclearwaste1_spec.png
+

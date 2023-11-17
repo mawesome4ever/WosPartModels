@@ -1,0 +1,60 @@
+newmtl Mininglaser1Mtl
+Material Color
+Ka 0 1 1
+Kd 0 1 1
+Ks 0 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mininglaser1_diff.png
+map_Kd Mininglaser1_diff.png
+map_d Mininglaser1_diff.png
+
+map_Bump Mininglaser1_nmap.png
+
+map_Ns Mininglaser1_spec.png
+
+newmtl Mininglaser7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mininglaser7_diff.png
+map_Kd Mininglaser7_diff.png
+map_d Mininglaser7_diff.png
+
+newmtl Mininglaser2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mininglaser2_diff.png
+map_Kd Mininglaser2_diff.png
+map_d Mininglaser2_diff.png
+
+newmtl Mininglaser3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mininglaser3_diff.png
+map_Kd Mininglaser3_diff.png
+map_d Mininglaser3_diff.png
+

@@ -1,0 +1,14 @@
+newmtl Neutronium1Mtl
+Material Color
+Ka 0.00143313 0.14198 0.420508
+Kd 0.00143313 0.14198 0.420508
+Ks 0.000281007 0.0278393 0.0824525 
+
+d 1
+
+Ns 255
+
+map_Bump Neutronium1_nmap.png
+
+map_Ns Neutronium1_spec.png
+

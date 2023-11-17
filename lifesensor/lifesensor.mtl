@@ -1,0 +1,60 @@
+newmtl Lifesensor1Mtl
+Material Color
+Ka 0 1 0
+Kd 0 1 0
+Ks 0 0.87451 0 
+
+d 1
+
+Ns 0
+
+map_Ka Lifesensor1_diff.png
+map_Kd Lifesensor1_diff.png
+map_d Lifesensor1_diff.png
+
+map_Bump Lifesensor1_nmap.png
+
+map_Ns Lifesensor1_spec.png
+
+newmtl Lifesensor2Mtl
+Material Color
+Ka 0.0511221 0.0511221 0.0511221
+Kd 0.0511221 0.0511221 0.0511221
+Ks 0.0447067 0.0447067 0.0447067 
+
+d 1
+
+Ns 0
+
+map_Ka Lifesensor2_diff.png
+map_Kd Lifesensor2_diff.png
+map_d Lifesensor2_diff.png
+
+newmtl Lifesensor7Mtl
+Material Color
+Ka 0 1 0
+Kd 0 1 0
+Ks 0 0.87451 0 
+
+d 1
+
+Ns 0
+
+map_Ka Lifesensor7_diff.png
+map_Kd Lifesensor7_diff.png
+map_d Lifesensor7_diff.png
+
+newmtl Lifesensor6Mtl
+Material Color
+Ka 0.0802193 0.0802193 0.0802193
+Kd 0.0802193 0.0802193 0.0802193
+Ks 0.0701525 0.0701525 0.0701525 
+
+d 1
+
+Ns 0
+
+map_Ka Lifesensor6_diff.png
+map_Kd Lifesensor6_diff.png
+map_d Lifesensor6_diff.png
+

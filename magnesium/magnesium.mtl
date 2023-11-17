@@ -1,0 +1,18 @@
+newmtl Magnesium1Mtl
+Material Color
+Ka 0.618686 0.618686 0.618686
+Kd 0.618686 0.618686 0.618686
+Ks 0.412457 0.412457 0.412457 
+
+d 1
+
+Ns 255
+
+map_Ka Magnesium1_diff.png
+map_Kd Magnesium1_diff.png
+map_d Magnesium1_diff.png
+
+map_Bump Magnesium1_nmap.png
+
+map_Ns Magnesium1_spec.png
+

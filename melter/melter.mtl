@@ -1,0 +1,80 @@
+newmtl Melter2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Melter2_diff.png
+map_Kd Melter2_diff.png
+map_d Melter2_diff.png
+
+newmtl Melter1Mtl
+Material Color
+Ka 0.409826 0.0891935 0
+Kd 0.409826 0.0891935 0
+Ks 0.162323 0.0353276 0 
+
+d 1
+
+Ns 0
+
+newmtl Melter4Mtl
+Material Color
+Ka 0.136099 0.136099 0.136099
+Kd 0.136099 0.136099 0.136099
+Ks 0.0539057 0.0539057 0.0539057 
+
+d 1
+
+Ns 0
+
+map_Ka Melter4_diff.png
+map_Kd Melter4_diff.png
+map_d Melter4_diff.png
+
+newmtl Melter3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Melter3_diff.png
+map_Kd Melter3_diff.png
+map_d Melter3_diff.png
+
+newmtl Melter6Mtl
+Material Color
+Ka 0.136099 0.136099 0.136099
+Kd 0.136099 0.136099 0.136099
+Ks 0.0539057 0.0539057 0.0539057 
+
+d 1
+
+Ns 0
+
+map_Ka Melter6_diff.png
+map_Kd Melter6_diff.png
+map_d Melter6_diff.png
+
+newmtl Melter8Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Melter8_diff.png
+map_Kd Melter8_diff.png
+map_d Melter8_diff.png
+
