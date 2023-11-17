@@ -1,0 +1,18 @@
+newmtl Firewood1Mtl
+Material Color
+Ka 0.0915184 0.0511221 0.0328759
+Kd 0.0915184 0.0511221 0.0328759
+Ks 0.00502454 0.0028067 0.00180495 
+
+d 1
+
+Ns 0
+
+map_Ka Firewood1_diff.png
+map_Kd Firewood1_diff.png
+map_d Firewood1_diff.png
+
+map_Bump Firewood1_nmap.png
+
+map_Ns Firewood1_spec.png
+

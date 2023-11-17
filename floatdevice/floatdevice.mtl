@@ -1,0 +1,52 @@
+newmtl Floatdevice1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0494072 0.0451216 0.0483159 
+
+d 1
+
+Ns 0
+
+newmtl Floatdevice2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Floatdevice2_diff.png
+map_Kd Floatdevice2_diff.png
+map_d Floatdevice2_diff.png
+
+newmtl Floatdevice6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Floatdevice6_diff.png
+map_Kd Floatdevice6_diff.png
+map_d Floatdevice6_diff.png
+
+newmtl Floatdevice3Mtl
+Material Color
+Ka 0.0511221 0.0511221 0.0511221
+Kd 0.0511221 0.0511221 0.0511221
+Ks 0.0202483 0.0202483 0.0202483 
+
+d 1
+
+Ns 0
+
+map_Ka Floatdevice3_diff.png
+map_Kd Floatdevice3_diff.png
+map_d Floatdevice3_diff.png
+

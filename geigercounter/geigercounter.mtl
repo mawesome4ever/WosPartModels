@@ -1,0 +1,60 @@
+newmtl Geigercounter1Mtl
+Material Color
+Ka 0.436813 0.302126 0.230998
+Kd 0.436813 0.302126 0.230998
+Ks 0.291209 0.201417 0.153999 
+
+d 1
+
+Ns 255
+
+map_Ka Geigercounter1_diff.png
+map_Kd Geigercounter1_diff.png
+map_d Geigercounter1_diff.png
+
+map_Bump Geigercounter1_nmap.png
+
+map_Ns Geigercounter1_spec.png
+
+newmtl Geigercounter2Mtl
+Material Color
+Ka 0.302126 0.254916 0.00120174
+Kd 0.302126 0.254916 0.00120174
+Ks 0.201417 0.169944 0.00080116 
+
+d 1
+
+Ns 255
+
+map_Ka Geigercounter2_diff.png
+map_Kd Geigercounter2_diff.png
+map_d Geigercounter2_diff.png
+
+newmtl Geigercounter3Mtl
+Material Color
+Ka 1 1 0
+Kd 1 1 0
+Ks 0.666667 0.666667 0 
+
+d 1
+
+Ns 255
+
+map_Ka Geigercounter3_diff.png
+map_Kd Geigercounter3_diff.png
+map_d Geigercounter3_diff.png
+
+newmtl Geigercounter7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Geigercounter7_diff.png
+map_Kd Geigercounter7_diff.png
+map_d Geigercounter7_diff.png
+

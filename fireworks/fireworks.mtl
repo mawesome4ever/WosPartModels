@@ -1,0 +1,46 @@
+newmtl Fireworks1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00477002 0.0126087 0.0210343 
+
+d 1
+
+Ns 255
+
+map_Ka Fireworks1_diff.png
+map_Kd Fireworks1_diff.png
+map_d Fireworks1_diff.png
+
+map_Bump Fireworks1_nmap.png
+
+map_Ns Fireworks1_spec.png
+
+newmtl Fireworks2Mtl
+Material Color
+Ka 0.373615 0.373615 0.373615
+Kd 0.373615 0.373615 0.373615
+Ks 0.249077 0.249077 0.249077 
+
+d 1
+
+Ns 255
+
+map_Ka Fireworks2_diff.png
+map_Kd Fireworks2_diff.png
+map_d Fireworks2_diff.png
+
+newmtl Fireworks6Mtl
+Material Color
+Ka 0.373615 0.373615 0.373615
+Kd 0.373615 0.373615 0.373615
+Ks 0.249077 0.249077 0.249077 
+
+d 1
+
+Ns 255
+
+map_Ka Fireworks6_diff.png
+map_Kd Fireworks6_diff.png
+map_d Fireworks6_diff.png
+

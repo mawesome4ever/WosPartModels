@@ -1,0 +1,66 @@
+newmtl Fluidprojector6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Fluidprojector6_diff.png
+map_Kd Fluidprojector6_diff.png
+map_d Fluidprojector6_diff.png
+
+newmtl Fluidprojector1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Fluidprojector2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Fluidprojector2_diff.png
+map_Kd Fluidprojector2_diff.png
+map_d Fluidprojector2_diff.png
+
+newmtl Fluidprojector8Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Fluidprojector8_diff.png
+map_Kd Fluidprojector8_diff.png
+map_d Fluidprojector8_diff.png
+
+newmtl Fluidprojector4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Fluidprojector4_diff.png
+map_Kd Fluidprojector4_diff.png
+map_d Fluidprojector4_diff.png
+

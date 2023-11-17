@@ -1,0 +1,80 @@
+newmtl Furnace1Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00102419 0.00102419 0.00102419 
+
+d 1
+
+Ns 0
+
+newmtl Furnace7Mtl
+Material Color
+Ka 0.183549 0.108711 0.0938759
+Kd 0.183549 0.108711 0.0938759
+Ks 0.0726998 0.0430581 0.0371822 
+
+d 1
+
+Ns 0
+
+map_Ka Furnace7_diff.png
+map_Kd Furnace7_diff.png
+map_d Furnace7_diff.png
+
+newmtl Furnace2Mtl
+Material Color
+Ka 1 0.592438 0.511398
+Kd 1 0.592438 0.511398
+Ks 0.396078 0.234652 0.202554 
+
+d 1
+
+Ns 0
+
+map_Ka Furnace2_diff.png
+map_Kd Furnace2_diff.png
+map_d Furnace2_diff.png
+
+newmtl Furnace4Mtl
+Material Color
+Ka 1 0.592438 0.511398
+Kd 1 0.592438 0.511398
+Ks 0.396078 0.234652 0.202554 
+
+d 1
+
+Ns 0
+
+map_Ka Furnace4_diff.png
+map_Kd Furnace4_diff.png
+map_d Furnace4_diff.png
+
+newmtl Furnace3Mtl
+Material Color
+Ka 1 0.592438 0.511398
+Kd 1 0.592438 0.511398
+Ks 0.396078 0.234652 0.202554 
+
+d 1
+
+Ns 0
+
+map_Ka Furnace3_diff.png
+map_Kd Furnace3_diff.png
+map_d Furnace3_diff.png
+
+newmtl Furnace8Mtl
+Material Color
+Ka 1 0.56681 0.121986
+Kd 1 0.56681 0.121986
+Ks 0.396078 0.224501 0.0483159 
+
+d 1
+
+Ns 0
+
+map_Ka Furnace8_diff.png
+map_Kd Furnace8_diff.png
+map_d Furnace8_diff.png
+

@@ -1,0 +1,46 @@
+newmtl Fourthofjuly1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00477002 0.0126087 0.0210343 
+
+d 1
+
+Ns 255
+
+map_Ka Fourthofjuly1_diff.png
+map_Kd Fourthofjuly1_diff.png
+map_d Fourthofjuly1_diff.png
+
+map_Bump Fourthofjuly1_nmap.png
+
+map_Ns Fourthofjuly1_spec.png
+
+newmtl Fourthofjuly2Mtl
+Material Color
+Ka 0.373615 0.373615 0.373615
+Kd 0.373615 0.373615 0.373615
+Ks 0.249077 0.249077 0.249077 
+
+d 1
+
+Ns 255
+
+map_Ka Fourthofjuly2_diff.png
+map_Kd Fourthofjuly2_diff.png
+map_d Fourthofjuly2_diff.png
+
+newmtl Fourthofjuly6Mtl
+Material Color
+Ka 0.373615 0.373615 0.373615
+Kd 0.373615 0.373615 0.373615
+Ks 0.249077 0.249077 0.249077 
+
+d 1
+
+Ns 255
+
+map_Ka Fourthofjuly6_diff.png
+map_Kd Fourthofjuly6_diff.png
+map_d Fourthofjuly6_diff.png
+

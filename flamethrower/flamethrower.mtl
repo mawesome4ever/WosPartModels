@@ -1,0 +1,52 @@
+newmtl Flamethrower1Mtl
+Material Color
+Ka 0.0399472 0.0399472 0.0399472
+Kd 0.0399472 0.0399472 0.0399472
+Ks 0.0158222 0.0158222 0.0158222 
+
+d 1
+
+Ns 0
+
+newmtl Flamethrower2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Flamethrower2_diff.png
+map_Kd Flamethrower2_diff.png
+map_d Flamethrower2_diff.png
+
+newmtl Flamethrower5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Flamethrower5_diff.png
+map_Kd Flamethrower5_diff.png
+map_d Flamethrower5_diff.png
+
+newmtl Flamethrower7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Flamethrower7_diff.png
+map_Kd Flamethrower7_diff.png
+map_d Flamethrower7_diff.png
+

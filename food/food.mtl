@@ -1,0 +1,18 @@
+newmtl Food1Mtl
+Material Color
+Ka 1 0.302126 0.302126
+Kd 1 0.302126 0.302126
+Ks 0.027451 0.00829364 0.00829364 
+
+d 1
+
+Ns 0
+
+map_Ka Food1_diff.png
+map_Kd Food1_diff.png
+map_d Food1_diff.png
+
+map_Bump Food1_nmap.png
+
+map_Ns Food1_spec.png
+

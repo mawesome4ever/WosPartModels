@@ -1,0 +1,52 @@
+newmtl Freezer1Mtl
+Material Color
+Ka 0.851252 0.827726 0.827726
+Kd 0.851252 0.827726 0.827726
+Ks 0.337162 0.327844 0.327844 
+
+d 1
+
+Ns 0
+
+newmtl Freezer2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Freezer2_diff.png
+map_Kd Freezer2_diff.png
+map_d Freezer2_diff.png
+
+newmtl Freezer3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Freezer3_diff.png
+map_Kd Freezer3_diff.png
+map_d Freezer3_diff.png
+
+newmtl Freezer6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Freezer6_diff.png
+map_Kd Freezer6_diff.png
+map_d Freezer6_diff.png
+

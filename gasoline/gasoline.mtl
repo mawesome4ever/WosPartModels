@@ -1,0 +1,18 @@
+newmtl Gasoline1Mtl
+Material Color
+Ka 1 1 0
+Kd 1 1 0
+Ks 1 1 0 
+
+d 0.701961
+
+Ns 0
+
+map_Ka Gasoline1_diff.png
+map_Kd Gasoline1_diff.png
+map_d Gasoline1_diff.png
+
+map_Bump Gasoline1_nmap.png
+
+map_Ns Gasoline1_spec.png
+

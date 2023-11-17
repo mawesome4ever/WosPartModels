@@ -1,0 +1,46 @@
+newmtl Generator1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Generator1_diff.png
+map_Kd Generator1_diff.png
+map_d Generator1_diff.png
+
+map_Bump Generator1_nmap.png
+
+map_Ns Generator1_spec.png
+
+newmtl Generator2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Generator2_diff.png
+map_Kd Generator2_diff.png
+map_d Generator2_diff.png
+
+newmtl Generator4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Generator4_diff.png
+map_Kd Generator4_diff.png
+map_d Generator4_diff.png
+
